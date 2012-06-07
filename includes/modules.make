@@ -62,6 +62,10 @@ projects[login_security][subdir] 	= contrib
 ;projects[session_expire][subdir] 	= contrib
 ;projects[no_anon][subdir] 			= contrib
 ;projects[user_prune][subdir] 		= contrib
+;projects[profile_permission][subdir] 	= contrib
+projects[config_perms][subdir] 		= contrib
+projects[permissions_api][subdir] 	= contrib
+
 
 ; Utilities
 projects[backup_migrate][subdir] 	= contrib
