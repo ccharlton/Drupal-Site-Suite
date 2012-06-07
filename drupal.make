@@ -5,6 +5,7 @@
 core = 6.x
 api = 2
 
+; Drupal core
 projects[] = drupal
 
 ; Includes
