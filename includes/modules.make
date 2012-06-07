@@ -18,6 +18,12 @@ projects[touch_icons][subdir] 		= contrib
 projects[google_fonts][subdir] 		= contrib
 projects[delta][subdir] 			= contrib
 
+; User & Permissions
+projects[filter_perms][subdir] 		= contrib
+projects[permissions_lock][subdir] 	= contrib
+projects[config_perms][subdir] 		= contrib
+projects[node_permissions_grid][subdir] 	= contrib
+
 ; Date & Time
 projects[date][subdir] 				= contrib
 
