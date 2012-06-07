@@ -1,0 +1,26 @@
+; Caching & Performance
+;projects[boost][subdir] 						= contrib
+projects[javascript_aggregator][subdir] 		= contrib
+projects[css_gzip][subdir] 						= contrib
+;projects[cache][subdir]	 					= contrib
+;projects[cacherouter][subdir] 					= contrib
+;projects[cacherouter_stats][subdir] 			= contrib
+;projects[cachestatic][subdir] 					= contrib
+;projects[pathcache][subdir] 					= contrib
+;projects[advcache][subdir] 					= contrib
+;projects[authcache][subdir] 					= contrib
+;projects[memcache][subdir] 					= contrib
+;projects[ad_memcache][subdir] 					= contrib
+;projects[fastpath_fscache][subdir] 			= contrib
+;projects[bundlecache][subdir] 					= contrib
+;projects[varnish][subdir] 						= contrib
+;projects[httprl][subdir] 						= contrib
+;projects[advagg][subdir] 						= contrib
+;projects[parallel_css][subdir] 				= contrib
+projects[cdn][subdir] 							= contrib
+;projects[cachetags][subdir] 					= contrib
+;projects[cache_graceful][subdir] 				= contrib
+;projects[cache_heuristic][subdir] 				= contrib
+;projects[cache_backport][subdir] 				= contrib
+;projects[cache_control][subdir] 				= contrib
+;projects[cookie_cache_bypass_adv][subdir] 		= contrib

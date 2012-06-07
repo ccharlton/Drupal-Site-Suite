@@ -1,0 +1,1 @@
+project[features][subdir] 			= contrib
