@@ -20,7 +20,7 @@ projects[google_fonts][subdir] 		= contrib
 
 ; Administration
 projects[admin_menu][subdir] 		= contrib
-projects[admin_role][subdir] 		= contrib
+projects[adminrole][subdir] 		= contrib
 projects[admin][subdir] 			= contrib
 ;projects[notifications][subdir]		= contrib
 projects[filter_perms][subdir]		= contrib
