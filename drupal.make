@@ -9,14 +9,17 @@ api = 2
 projects[] = drupal
 
 ; Includes
-includes[commerce] = commerce.make
-includes[development] = development.make
-includes[features] = features.make
-includes[libraries] = libraries.make
-includes[modules] = modules.make
-includes[performance] = performance.make
-includes[reports] = reports.make
-includes[search] = search.make
-includes[seo] = seo.make
-includes[themes] = themes.make
+includes[commerce] = includes/commerce.make
+includes[development] = includes/development.make
+includes[features] = includes/features.make
+includes[libraries] = includes/libraries.make
+includes[modules] = includes/modules.make
+includes[performance] = includes/performance.make
+includes[performance] = includes/profiles.make
+includes[reports] = includes/reports.make
+includes[search] = includes/search.make
+includes[seo] = includes/seo.make
+includes[themes] = includes/themes.make
+
+; Custom
 includes[custom] = custom.make
