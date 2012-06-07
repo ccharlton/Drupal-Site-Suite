@@ -2,7 +2,7 @@
 ; Written by Chris Charlton http://xtnd.us http://chrischarlton.us
 ; Version 1.0-dev
 
-core = 6.x
+core = 7.x
 api = 2
 
 ; Drupal core
