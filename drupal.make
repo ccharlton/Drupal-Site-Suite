@@ -15,11 +15,11 @@ includes[features] = includes/features.make
 includes[libraries] = includes/libraries.make
 includes[modules] = includes/modules.make
 includes[performance] = includes/performance.make
-includes[performance] = includes/profiles.make
+;includes[profiles] = includes/profiles.make
 includes[reports] = includes/reports.make
 includes[search] = includes/search.make
 includes[seo] = includes/seo.make
 includes[themes] = includes/themes.make
 
 ; Custom
-includes[custom] = custom.make
+;includes[custom] = custom.make
