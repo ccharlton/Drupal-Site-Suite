@@ -7,6 +7,7 @@
 ;projects[drd_server][subdir] 		= contrib
 ;projects[take_control][subdir] 	= contrib
 ;projects[total_control][subdir] 	= contrib
+projects[admin_menu][subdir] 	= contrib
 
 ; Help & Tutorials
 projects[advanced_help][subdir] 	= contrib
@@ -56,6 +57,12 @@ projects[colorbox][subdir] 			= contrib
 projects[webform][subdir] 					= contrib​
 projects[clientside_validation][subdir] 	= contrib​
 
+; Entities
+projects[entity][subdir] 	= contrib
+
+; Rules
+projects[rules][subdir] 	= contrib
+
 ; Misc.
 ;projects[rate][subdir] 				= contrib
 projects[backup_migrate][subdir] 		= contrib
@@ -65,4 +72,5 @@ projects[pathauto][subdir] 				= contrib
 ;projects[grammar_parser_ui][subdir]  	= contrib
 ;projects[disable_breadcrumbs][subdir]  = contrib
 projects[remove_generator][subdir]  	= contrib
+projects[module_filter][subdir]  	= contrib
 
