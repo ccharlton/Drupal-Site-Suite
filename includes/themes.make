@@ -1,6 +1,6 @@
 ; Base Themes
 projects[] = zen
-projects[] = alpha
+;projects[] = alpha
 projects[] = omega
 
 ; Administration Themes
