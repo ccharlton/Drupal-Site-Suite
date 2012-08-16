@@ -8,5 +8,8 @@ projects[commerce][subdir] 			= contrib
 projects[addressfield][subdir] 		= contrib
 
 ; Commerce (contrib)
+projects[commerce_postal_code_filter][subdir] 	= contrib
+;projects[commerce_feeds][subdir] 	= contrib
+
 projects[commerce_shipping][version] = 7.x-2.0-beta1
 projects[commerce_shipping][subdir] 	= contrib
