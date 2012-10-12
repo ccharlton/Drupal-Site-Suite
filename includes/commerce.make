@@ -13,3 +13,7 @@ projects[commerce_postal_code_filter][subdir] 	= contrib
 
 projects[commerce_shipping][version] = 2.0-beta1
 projects[commerce_shipping][subdir] 	= contrib
+
+
+; PCI & PCI-DSS Compliance
+projects[pci_update][subdir] 		= contrib

@@ -25,6 +25,10 @@ projects[filter_perms][subdir] 		= contrib
 projects[permissions_lock][subdir] 	= contrib
 projects[config_perms][subdir] 		= contrib
 projects[node_permissions_grid][subdir] 	= contrib
+projects[legal][subdir] 	= contrib
+projects[force_password_change][subdir] 	= contrib
+projects[role_watchdog][subdir] 		= contrib
+
 
 ; Fields
 projects[link][subdir] 				= contrib
@@ -42,6 +46,9 @@ projects[mollom][subdir] 			= contrib
 
 ; E-mail
 ;projects[queue_ui][subdir] 		= contrib
+projects[mail_edit][subdir] 		= contrib
+projects[subscriptions][subdir] 		= contrib
+projects[bounce][subdir] 			= contrib
 
 ; Views
 projects[views][subdir] 					= contrib
@@ -49,11 +56,15 @@ projects[views_bulk_operations][subdir] 	= contrib
 projects[dynamic_formatters][subdir] 		= contrib
 projects[views_data_export][subdir] 		= contrib
 projects[views_datasource][subdir] 		= contrib
+projects[views_date_format_sql][subdir] 		= contrib
+projects[views_ical][subdir] 		= contrib
+projects[admin_views][subdir] 		= contrib
 
 ; Content
 projects[context][subdir] 			= contrib
 projects[token][subdir] 			= contrib
 ;projects[ajax_markup][subdir] 		= contrib
+projects[scheduler][subdir] 			= contrib
 
 ; Content Editing
 projects[widgets][subdir] 			= contrib
@@ -97,6 +108,18 @@ projects[openlayers_blocks][subdir] = contrib
 projects[geofile][subdir] 			= contrib
 
 ; Social Networking
+projects[service_links][subdir] 		= contrib
+
+; Security
+projects[security_review][subdir] 		= contrib
+projects[hsts][subdir] 		= contrib
+projects[security_questions][subdir] 		= contrib
+;projects[content_security_policy][subdir] 		= contrib
+projects[password_policy][subdir] 		= contrib
+;projects[seckit][subdir] 		= contrib
+;projects[securelogin][subdir] 		= contrib
+;projects[securepages][subdir] 		= contrib
+projects[flood_control][subdir] 		= contrib
 
 ; Misc.
 ;projects[rate][subdir] 				= contrib
@@ -108,4 +131,7 @@ projects[pathauto][subdir] 				= contrib
 ;projects[disable_breadcrumbs][subdir]  = contrib
 projects[remove_generator][subdir]  	= contrib
 projects[module_filter][subdir]  	= contrib
+projects[checklistapi][subdir]  	= contrib
+projects[addtocal][subdir]  	= contrib
+projects[legal_gen][subdir]  	= contrib
 
