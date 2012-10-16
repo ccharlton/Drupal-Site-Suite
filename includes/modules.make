@@ -29,7 +29,6 @@ projects[legal][subdir] 	= contrib
 projects[force_password_change][subdir] 	= contrib
 projects[role_watchdog][subdir] 		= contrib
 
-
 ; Fields
 projects[link][subdir] 				= contrib
 projects[advanced_link][subdir] 	= contrib
@@ -68,6 +67,7 @@ projects[scheduler][subdir] 			= contrib
 
 ; Content Editing
 projects[widgets][subdir] 			= contrib
+projects[hide_formats][subdir] 			= contrib
 
 ; Images & Galleries
 projects[colorbox][subdir] 			= contrib
@@ -134,4 +134,3 @@ projects[module_filter][subdir]  	= contrib
 projects[checklistapi][subdir]  	= contrib
 projects[addtocal][subdir]  	= contrib
 projects[legal_gen][subdir]  	= contrib
-
