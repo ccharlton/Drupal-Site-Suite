@@ -39,6 +39,7 @@ projects[entityreference][subdir] = contrib
 
 ; Date & Time
 projects[date][subdir] 				= contrib
+projects[dates][subdir] 			= contrib
 
 ; CAPTCHA & Anti-Spam
 projects[mollom][subdir] 			= contrib
