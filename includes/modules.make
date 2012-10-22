@@ -42,6 +42,7 @@ projects[textformatter][subdir] = contrib
 projects[field_slideshow][subdir] = contrib
 projects[field_collection_table][subdir] = contrib
 projects[field_collection_views][subdir] = contrib
+projects[styles][subdir] 			= contrib
 
 ; Date & Time
 projects[date][subdir] 				= contrib
