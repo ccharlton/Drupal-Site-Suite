@@ -12,7 +12,8 @@ projects[simpletest][subdir] 			= development
 projects[XHProf][subdir] 				= development
 projects[secure_code_review][subdir] 		= development
 projects[grammar_parser][subdir] 		= development
-projects[api][subdir] 					= development
+;projects[api][subdir] 					= development
+projects[drupalforfirebug][subdir] 		= development
 
 projects[querypath][subdir] 			= contrib
 projects[variable][subdir] 				= contrib
