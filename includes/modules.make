@@ -19,6 +19,7 @@ projects[touch_icons][subdir] 		= contrib
 projects[google_fonts][subdir] 		= contrib
 projects[fontyourface][subdir] 		= contrib
 projects[delta][subdir] 			= contrib
+;projects[skinr][subdir] 			= contrib
 
 ; User & Permissions
 projects[filter_perms][subdir] 		= contrib
@@ -28,6 +29,7 @@ projects[node_permissions_grid][subdir] 	= contrib
 projects[legal][subdir] 	= contrib
 projects[force_password_change][subdir] 	= contrib
 projects[role_watchdog][subdir] 		= contrib
+projects[login_destination][subdir] 	= contrib
 
 ; Fields
 projects[link][subdir] 				= contrib
@@ -36,6 +38,10 @@ projects[custom_formatters][subdir] = contrib
 projects[token_formatters][subdir] = contrib
 projects[file_formatters][subdir] = contrib
 projects[entityreference][subdir] = contrib
+projects[textformatter][subdir] = contrib
+projects[field_slideshow][subdir] = contrib
+projects[field_collection_table][subdir] = contrib
+projects[field_collection_views][subdir] = contrib
 
 ; Date & Time
 projects[date][subdir] 				= contrib
@@ -64,7 +70,8 @@ projects[admin_views][subdir] 		= contrib
 projects[context][subdir] 			= contrib
 projects[token][subdir] 			= contrib
 ;projects[ajax_markup][subdir] 		= contrib
-projects[scheduler][subdir] 			= contrib
+projects[scheduler][subdir] 		= contrib
+projects[nodequeue][subdir] 		= contrib
 
 ; Content Editing
 projects[widgets][subdir] 			= contrib
@@ -73,23 +80,47 @@ projects[hide_formats][subdir] 			= contrib
 ; Images & Galleries
 projects[colorbox][subdir] 			= contrib
 projects[lazyloader][subdir] 		= contrib
+;projects[imagefield_crop][subdir] 	= contrib
 
 ; Video & Media
-projects[video_embed_field][subdir] 		= contrib
+;projects[video_embed_field][subdir] 		= contrib
 ;projects[vimeo_link_formatter][subdir] 	= contrib
+;projects[ffmpeg_wrapper][subdir] 		= contrib
+projects[media][subdir] 				= contrib
+;projects[getid3][subdir] 				= contrib
+projects[emfield][subdir] 				= contrib
 
 ; Files & Uploading
 ;projects[plupload][subdir] 		= contrib
+projects[mimedetect][subdir] 		= contrib
+projects[file_entity][subdir] 		= contrib
+
+; Stream wrappers & Filter types
+projects[remote_stream_wrapper][subdir] 	= contrib​
+projects[filter_protocols][subdir] 	= contrib​
+
+; Feeds & RSS
+projects[feeds][subdir] 				= contrib​
+;projects[feeds_tamper][subdir] 			= contrib
+projects[rss_field_formatters][subdir] 	= contrib
+projects[views_rss][subdir] 			= contrib
+projects[views_rss_media][subdir] 		= contrib
+projects[views_rss_georss][subdir] 		= contrib
+;projects[views_rss_itunes][subdir] 		= contrib
+;projects[views_rss_pubsubhubbub][subdir] = contrib
+;projects[views_rss_yandex][subdir] 		= contrib
+;projects[views_rss_google_products][subdir] 	= contrib
 
 ; Forms
-projects[webform][subdir] 					= contrib​
+projects[webform][subdir] 				= contrib​
 projects[clientside_validation][subdir] 	= contrib​
 
 ; Entities
 projects[entity][subdir] 			= contrib
 projects[entity_view_mode][subdir] 	= contrib
 projects[eva][subdir] 				= contrib
-projects[bean][subdir] 	= contrib
+projects[bean][subdir] 				= contrib
+projects[field_collection][subdir] 	= contrib
 
 ; Rules
 projects[rules][subdir] 	= contrib
@@ -121,6 +152,12 @@ projects[password_policy][subdir] 		= contrib
 ;projects[securelogin][subdir] 		= contrib
 ;projects[securepages][subdir] 		= contrib
 projects[flood_control][subdir] 		= contrib
+
+; Menus & Navigation
+projects[nice_menus][subdir] 		= contrib
+;projects[menu_position][subdir] 		= contrib
+;projects[menu_block][subdir] 		= contrib
+;projects[dhtml_menu][subdir] 		= contrib
 
 ; Misc.
 ;projects[rate][subdir] 				= contrib
