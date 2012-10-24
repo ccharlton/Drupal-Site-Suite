@@ -11,3 +11,6 @@ projects[state][subdir] 	= contrib
 
 ; Database Performance
 projects[autoslave][subdir] 	= contrib
+
+; Cache
+;projects[cache_graceful][subdir] 	= contrib

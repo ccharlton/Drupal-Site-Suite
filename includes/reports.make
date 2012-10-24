@@ -7,3 +7,6 @@ projects[systeminfo][subdir] 		= contrib
 
 ; Monitoring & Tracking
 projects[droptor][subdir] 			= contrib
+
+; Charts & Graphs
+projects[chart][subdir] 			= contrib

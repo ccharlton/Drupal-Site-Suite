@@ -1,6 +1,7 @@
 ; Search
 projects[search_api][subdir] 			= contrib
 projects[facetapi][subdir] 				= contrib
+projects[search_config][subdir] 		= contrib
 
 ; Search API
 projects[search_api_solr][subdir] 				= contrib

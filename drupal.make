@@ -11,6 +11,7 @@ projects[] = drupal
 ; Includes
 includes[commerce] = includes/commerce.make
 includes[development] = includes/development.make
+;includes[drush] = includes/drush.make
 includes[features] = includes/features.make
 includes[libraries] = includes/libraries.make
 includes[modules] = includes/modules.make
