@@ -14,3 +14,5 @@ projects[kwresearch][subdir] 		= contrib
 projects[metatag][subdir] 			= contrib
 projects[seo_friend][subdir] 		= contrib
 projects[seo][subdir] 				= contrib
+;projects[site_verify][subdir] 		= contrib
+;projects[google_website_optimizer][subdir] 	= contrib

@@ -95,6 +95,7 @@ projects[nodequeue][subdir] 		= contrib
 ;projects[bundle_copy][subdir] 		= contrib
 ;projects[node_announce][subdir] 	= contrib
 projects[rabbit_hole][subdir] 		= contrib
+projects[auto_nodetitle][subdir] 	= contrib
 
 ; Content Editing
 projects[widgets][subdir] 			= contrib
@@ -118,6 +119,9 @@ projects[workbench_access][subdir] 	= contrib
 projects[workbench_moderation][subdir] 	= contrib
 projects[workbench_media][subdir] 	= contrib
 projects[weight][subdir] 			= contrib
+
+; Taxonomy
+projects[taxonomy_manager][subdir] 	= contrib
 
 ; Images & Galleries
 projects[colorbox][subdir] 			= contrib
@@ -209,6 +213,9 @@ projects[menu_breadcrumb][subdir] 	= contrib
 ;projects[elysia_cron][subdir] 		= contrib
 ;projects[ultimate_cron][subdir] 		= contrib
 
+; Multi-site
+projects[robotstxt][subdir] 			= contrib
+
 ; Misc.
 ;projects[rate][subdir] 				= contrib
 projects[backup_migrate][subdir] 		= contrib
@@ -231,3 +238,5 @@ projects[resolveip][subdir]  			= contrib
 projects[chrome_frame][subdir]  		= contrib
 projects[print][subdir]  				= contrib
 projects[redirect][subdir]  			= contrib
+projects[site_map][subdir] 				= contrib
+projects[favicon][subdir] 				= contrib
