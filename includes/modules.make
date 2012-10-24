@@ -30,6 +30,7 @@ projects[legal][subdir] 	= contrib
 projects[force_password_change][subdir] = contrib
 projects[role_watchdog][subdir] 		= contrib
 projects[login_destination][subdir] 	= contrib
+projects[r4032login][subdir] 			= contrib
 
 ; Fields
 projects[link][subdir] 						= contrib
@@ -49,7 +50,9 @@ projects[select_or_other][subdir] 			= contrib
 projects[elements][subdir] 					= contrib
 ;projects[backports][subdir] 				= contrib
 projects[options_element][subdir] 			= contrib
-;projects[field_formatter_settings][subdir] 	= contrib
+;projects[field_formatter_settings][subdir] = contrib
+projects[field_group][subdir] 				= contrib
+projects[filefield_sources][subdir] 		= contrib
 
 ; Date & Time
 projects[date][subdir] 				= contrib
@@ -58,12 +61,15 @@ projects[hms_field][subdir] 		= contrib
 
 ; CAPTCHA & Anti-Spam
 projects[mollom][subdir] 			= contrib
+projects[captcha][subdir] 			= contrib
+projects[recaptcha][subdir] 		= contrib
 
 ; E-mail
 ;projects[queue_ui][subdir] 		= contrib
 projects[mail_edit][subdir] 		= contrib
 projects[subscriptions][subdir] 	= contrib
 projects[bounce][subdir] 			= contrib
+projects[smtp][subdir] 				= contrib
 
 ; Views
 projects[views][subdir] 					= contrib
@@ -78,6 +84,7 @@ projects[views_dependent_filters][subdir] 	= contrib
 ;projects[views_quicksand][subdir] 	= contrib
 ;projects[better_exposed_filters][subdir] 	= contrib
 projects[views_infinite_scroll][subdir] 	= contrib
+;projects[views_php][subdir] 		= contrib
 
 ; Content
 projects[context][subdir] 			= contrib
@@ -95,12 +102,22 @@ projects[hide_formats][subdir] 		= contrib
 projects[ccl][subdir] 				= contrib
 projects[maxlength][subdir] 		= contrib
 projects[readability][subdir] 		= contrib
+projects[revisioning][subdir] 		= contrib
+projects[pathologic][subdir] 		= contrib
+
+; Content Editing: WYSIWYG
+projects[wysiwyg][subdir] 			= contrib
+projects[ckeditor][subdir] 			= contrib
+projects[ckeditor_link][subdir] 	= contrib
+projects[imce][subdir] 				= contrib
+projects[imce_wysiwyg][subdir] 		= contrib
 
 ; Content Administration & Management
 projects[workbench][subdir] 		= contrib
 projects[workbench_access][subdir] 	= contrib
 projects[workbench_moderation][subdir] 	= contrib
 projects[workbench_media][subdir] 	= contrib
+projects[weight][subdir] 			= contrib
 
 ; Images & Galleries
 projects[colorbox][subdir] 			= contrib
@@ -147,6 +164,7 @@ projects[entity_view_mode][subdir] 	= contrib
 projects[eva][subdir] 				= contrib
 projects[bean][subdir] 				= contrib
 projects[field_collection][subdir] 	= contrib
+;projects[references_dialog][subdir] 	= contrib
 
 ; Rules
 projects[rules][subdir] 	= contrib
@@ -185,6 +203,7 @@ projects[nice_menus][subdir] 		= contrib
 ;projects[menu_position][subdir] 	= contrib
 ;projects[menu_block][subdir] 		= contrib
 ;projects[dhtml_menu][subdir] 		= contrib
+projects[menu_breadcrumb][subdir] 	= contrib
 
 ; Cron
 ;projects[elysia_cron][subdir] 		= contrib
@@ -209,3 +228,6 @@ projects[strongarm][subdir]  			= contrib
 projects[resolveip][subdir]  			= contrib
 ;projects[progress][subdir]  			= contrib
 ;projects[background_process][subdir]  	= contrib
+projects[chrome_frame][subdir]  		= contrib
+projects[print][subdir]  				= contrib
+projects[redirect][subdir]  			= contrib

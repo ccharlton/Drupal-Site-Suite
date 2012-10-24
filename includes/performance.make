@@ -1,6 +1,7 @@
 ; High Performance
 projects[cdn][subdir] 			= contrib
-projects[apc][subdir] 	= contrib
+projects[varnish][subdir] 		= contrib
+projects[apc][subdir] 			= contrib
 projects[apc_status][subdir] 	= contrib
 
 ; Front End Performance
@@ -11,6 +12,7 @@ projects[state][subdir] 	= contrib
 
 ; Database Performance
 projects[autoslave][subdir] 	= contrib
+projects[memcache][subdir] 		= contrib
 
 ; Cache
 ;projects[cache_graceful][subdir] 	= contrib
