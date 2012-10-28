@@ -67,10 +67,11 @@ projects[recaptcha][subdir] 		= contrib
 ; E-mail
 ;projects[queue_ui][subdir] 		= contrib
 projects[mail_edit][subdir] 		= contrib
-projects[subscriptions][subdir] 	= contrib
+projects[subscriptions][subdir] 		= contrib
 projects[bounce][subdir] 			= contrib
 projects[smtp][subdir] 				= contrib
 projects[mailchimp][subdir] 		= contrib
+projects[mcc][subdir] 				= contrib
 projects[mandrill][subdir] 			= contrib
 
 ; Views
