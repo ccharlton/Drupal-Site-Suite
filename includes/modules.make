@@ -16,10 +16,13 @@ projects[tutorials][subdir] 		= contrib
 
 ; Theme enhancements
 projects[touch_icons][subdir] 		= contrib
-projects[google_fonts][subdir] 		= contrib
-projects[fontyourface][subdir] 		= contrib
 projects[delta][subdir] 			= contrib
 ;projects[skinr][subdir] 			= contrib
+
+; Web Fonts
+projects[fontyourface][subdir] 		= contrib
+projects[google_fonts][subdir] 		= contrib
+projects[google_webfont_loader_api][subdir] = contrib
 
 ; User & Permissions
 projects[filter_perms][subdir] 			= contrib
