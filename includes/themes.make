@@ -9,3 +9,4 @@ projects[] = rubik
 
 ; Other themes
 ;projects[] = adaptivetheme
+;projects[] = boilerplate
