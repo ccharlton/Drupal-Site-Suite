@@ -18,6 +18,7 @@ projects[tutorials][subdir] 		= contrib
 projects[touch_icons][subdir] 		= contrib
 projects[delta][subdir] 			= contrib
 ;projects[skinr][subdir] 			= contrib
+projects[themesettings_extras][subdir] = contrib
 
 ; Web Fonts
 projects[fontyourface][subdir] 		= contrib
