@@ -176,6 +176,7 @@ projects[eva][subdir] 				= contrib
 projects[bean][subdir] 				= contrib
 projects[field_collection][subdir] 	= contrib
 ;projects[references_dialog][subdir] 	= contrib
+;projects[entity_translation][subdir] = contrib
 
 ; Rules
 projects[rules][subdir] 	= contrib
