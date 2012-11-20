@@ -213,7 +213,7 @@ projects[shield][subdir] 				= contrib
 ; Menus & Navigation
 projects[nice_menus][subdir] 		= contrib
 ;projects[menu_position][subdir] 	= contrib
-;projects[menu_block][subdir] 		= contrib
+projects[menu_block][subdir] 		= contrib
 ;projects[dhtml_menu][subdir] 		= contrib
 projects[menu_breadcrumb][subdir] 	= contrib
 
