@@ -104,6 +104,10 @@ projects[nodequeue][subdir] 		= contrib
 projects[rabbit_hole][subdir] 		= contrib
 projects[auto_nodetitle][subdir] 	= contrib
 
+; Semantic Content
+projects[microdata][subdir] 		= contrib
+projects[schemaorg][subdir] 		= contrib
+
 ; Content Editing
 projects[widgets][subdir] 			= contrib
 projects[hide_formats][subdir] 		= contrib
