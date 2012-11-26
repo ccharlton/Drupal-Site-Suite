@@ -109,6 +109,7 @@ projects[microdata][subdir] 		= contrib
 projects[schemaorg][subdir] 		= contrib
 projects[rdfx][subdir] 				= contrib
 projects[richsnippets][subdir] 		= contrib
+projects[html5_tools][subdir] 		= contrib
 
 ; Content Editing
 projects[widgets][subdir] 			= contrib
