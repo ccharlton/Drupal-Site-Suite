@@ -57,6 +57,7 @@ projects[options_element][subdir] 			= contrib
 ;projects[field_formatter_settings][subdir] = contrib
 projects[field_group][subdir] 				= contrib
 projects[filefield_sources][subdir] 		= contrib
+projects[fences][subdir] 				= contrib
 
 ; Date & Time
 projects[date][subdir] 				= contrib
