@@ -136,6 +136,10 @@ projects[workbench_moderation][subdir] 	= contrib
 projects[workbench_media][subdir] 	= contrib
 projects[weight][subdir] 			= contrib
 
+; Content Migration/Importing
+;projects[migrate][subdir] 			= contrib
+;projects[migrate_extras][subdir] 	= contrib
+
 ; Taxonomy
 projects[taxonomy_manager][subdir] 	= contrib
 
@@ -262,3 +266,4 @@ projects[site_map][subdir] 				= contrib
 projects[favicon][subdir] 				= contrib
 projects[sparql][subdir] 				= contrib
 projects[job_scheduler][subdir] 			= contrib
+projects[votingapi][subdir] 			= contrib
