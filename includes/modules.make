@@ -81,19 +81,19 @@ projects[mcc][subdir] 				= contrib
 projects[mandrill][subdir] 			= contrib
 
 ; Views
-projects[views][subdir] 					= contrib
+projects[views][subdir] 				= contrib
 projects[views_bulk_operations][subdir] 	= contrib
 projects[dynamic_formatters][subdir] 		= contrib
 projects[views_data_export][subdir] 		= contrib
-projects[views_datasource][subdir] 			= contrib
+projects[views_datasource][subdir] 		= contrib
 projects[views_date_format_sql][subdir] 	= contrib
-projects[views_ical][subdir] 		= contrib
-projects[admin_views][subdir] 		= contrib
-projects[views_dependent_filters][subdir] 	= contrib
-;projects[views_quicksand][subdir] 	= contrib
-;projects[better_exposed_filters][subdir] 	= contrib
+projects[views_ical][subdir] 			= contrib
+projects[admin_views][subdir] 			= contrib
+projects[views_dependent_filters][subdir] = contrib
+;projects[views_quicksand][subdir] 		= contrib
+;projects[better_exposed_filters][subdir] = contrib
 projects[views_infinite_scroll][subdir] 	= contrib
-;projects[views_php][subdir] 		= contrib
+;projects[views_php][subdir] 			= contrib
 
 ; Content
 projects[context][subdir] 			= contrib
@@ -125,7 +125,7 @@ projects[pathologic][subdir] 		= contrib
 ; Content Editing: WYSIWYG
 projects[wysiwyg][subdir] 			= contrib
 projects[ckeditor][subdir] 			= contrib
-projects[ckeditor_link][subdir] 	= contrib
+projects[ckeditor_link][subdir] 		= contrib
 projects[imce][subdir] 				= contrib
 projects[imce_wysiwyg][subdir] 		= contrib
 
@@ -145,8 +145,8 @@ projects[lazyloader][subdir] 		= contrib
 ;projects[imagefield_crop][subdir] 	= contrib
 
 ; Video & Media
-;projects[video_embed_field][subdir] 	= contrib
-;projects[vimeo_link_formatter][subdir] = contrib
+;projects[video_embed_field][subdir] 		= contrib
+;projects[vimeo_link_formatter][subdir] 	= contrib
 ;projects[ffmpeg_wrapper][subdir] 		= contrib
 projects[media][subdir] 				= contrib
 ;projects[getid3][subdir] 				= contrib
@@ -160,16 +160,16 @@ projects[transliteration][subdir] 	= contrib
 
 ; Stream wrappers & Filter types
 projects[remote_stream_wrapper][subdir] 	= contrib​
-projects[filter_protocols][subdir] 			= contrib​
+projects[filter_protocols][subdir] 		= contrib​
 
 ; Feeds & RSS
 projects[feeds][subdir] 				= contrib​
-;projects[feeds_tamper][subdir] 		= contrib
+;projects[feeds_tamper][subdir] 			= contrib
 projects[rss_field_formatters][subdir] 	= contrib
 projects[views_rss][subdir] 			= contrib
 projects[views_rss_media][subdir] 		= contrib
 projects[views_rss_georss][subdir] 		= contrib
-;projects[views_rss_itunes][subdir] 	= contrib
+;projects[views_rss_itunes][subdir] 		= contrib
 ;projects[views_rss_pubsubhubbub][subdir] = contrib
 ;projects[views_rss_yandex][subdir] 		= contrib
 ;projects[views_rss_google_products][subdir] 	= contrib
@@ -198,10 +198,10 @@ projects[ip_geoloc][subdir] 		= contrib
 projects[geocoder][subdir] 			= contrib
 projects[getlocations][subdir] 		= contrib
 projects[geofield][subdir] 			= contrib
-projects[geofield_gmap][subdir] 	= contrib
+projects[geofield_gmap][subdir] 		= contrib
 projects[mapbox][subdir] 			= contrib
 projects[openlayers][subdir] 		= contrib
-projects[openlayers_blocks][subdir] = contrib
+projects[openlayers_blocks][subdir] 	= contrib
 projects[geofile][subdir] 			= contrib
 
 ; Social Networking
@@ -216,7 +216,7 @@ projects[password_policy][subdir] 		= contrib
 ;projects[seckit][subdir] 				= contrib
 ;projects[securelogin][subdir] 			= contrib
 ;projects[securepages][subdir] 			= contrib
-projects[flood_control][subdir] 		= contrib
+projects[flood_control][subdir] 			= contrib
 projects[shield][subdir] 				= contrib
 
 ; Menus & Navigation
@@ -227,7 +227,7 @@ projects[menu_block][subdir] 		= contrib
 projects[menu_breadcrumb][subdir] 	= contrib
 
 ; Cron
-;projects[elysia_cron][subdir] 		= contrib
+;projects[elysia_cron][subdir] 			= contrib
 ;projects[ultimate_cron][subdir] 		= contrib
 
 ; Multi-site
@@ -242,22 +242,23 @@ projects[backup_migrate][subdir] 		= contrib
 projects[ctools][subdir] 				= contrib
 projects[pathauto][subdir] 				= contrib
 projects[subpathauto][subdir] 			= contrib
-;projects[grammar_parser][subdir]   	= contrib
+;projects[grammar_parser][subdir]   		= contrib
 ;projects[grammar_parser_ui][subdir]  	= contrib
-;projects[disable_breadcrumbs][subdir]  = contrib
-projects[remove_generator][subdir]  	= contrib
+;projects[disable_breadcrumbs][subdir]  	= contrib
+projects[remove_generator][subdir]  		= contrib
 projects[module_filter][subdir]  		= contrib
-projects[checklistapi][subdir]  		= contrib
+projects[checklistapi][subdir]  			= contrib
 projects[addtocal][subdir]  			= contrib
 projects[legal_gen][subdir]  			= contrib
-projects[absolute_messages][subdir]  	= contrib
+projects[absolute_messages][subdir]  		= contrib
 projects[strongarm][subdir]  			= contrib
 projects[resolveip][subdir]  			= contrib
 ;projects[progress][subdir]  			= contrib
 ;projects[background_process][subdir]  	= contrib
-projects[chrome_frame][subdir]  		= contrib
+projects[chrome_frame][subdir]  			= contrib
 projects[print][subdir]  				= contrib
 projects[redirect][subdir]  			= contrib
 projects[site_map][subdir] 				= contrib
 projects[favicon][subdir] 				= contrib
 projects[sparql][subdir] 				= contrib
+projects[job_scheduler][subdir] 			= contrib
