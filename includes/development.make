@@ -26,6 +26,8 @@ projects[variable][subdir] 				= contrib
 projects[simplehtmldom][subdir] 			= contrib
 projects[environment_modules][subdir] 	= contrib
 projects[devel_entity][subdir] 			= contrib
+projects[schema][subdir] 				= contrib
+projects[data][subdir] 					= contrib
 
 ; Deployment
 projects[git_deploy][subdir] 			= contrib

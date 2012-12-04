@@ -168,7 +168,10 @@ projects[filter_protocols][subdir] 		= contrib​
 
 ; Feeds & RSS
 projects[feeds][subdir] 				= contrib​
-;projects[feeds_tamper][subdir] 			= contrib
+projects[feeds_tamper][subdir] 			= contrib
+;projects[feeds_crawler][subdir] 		= contrib
+;projects[feeds_querypath_parser][subdir] = contrib
+;projects[feeds_spider][subdir] 			= contrib
 projects[rss_field_formatters][subdir] 	= contrib
 projects[views_rss][subdir] 			= contrib
 projects[views_rss_media][subdir] 		= contrib
