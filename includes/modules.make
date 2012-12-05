@@ -121,6 +121,7 @@ projects[maxlength][subdir] 		= contrib
 projects[readability][subdir] 		= contrib
 projects[revisioning][subdir] 		= contrib
 projects[pathologic][subdir] 		= contrib
+;projects[trevi][subdir] 			= contrib
 
 ; Content Editing: WYSIWYG
 projects[wysiwyg][subdir] 			= contrib
@@ -270,3 +271,4 @@ projects[favicon][subdir] 				= contrib
 projects[sparql][subdir] 				= contrib
 projects[job_scheduler][subdir] 			= contrib
 projects[votingapi][subdir] 			= contrib
+projects[diff][subdir] 					= contrib
