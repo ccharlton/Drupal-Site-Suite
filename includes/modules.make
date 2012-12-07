@@ -136,6 +136,7 @@ projects[workbench_access][subdir] 	= contrib
 projects[workbench_moderation][subdir] 	= contrib
 projects[workbench_media][subdir] 	= contrib
 projects[weight][subdir] 			= contrib
+projects[node_revision_delete][subdir] = contrib
 
 ; Content Migration/Importing
 ;projects[migrate][subdir] 			= contrib
