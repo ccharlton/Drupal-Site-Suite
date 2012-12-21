@@ -94,6 +94,7 @@ projects[views_dependent_filters][subdir] = contrib
 ;projects[better_exposed_filters][subdir] = contrib
 projects[views_infinite_scroll][subdir] 	= contrib
 ;projects[views_php][subdir] 			= contrib
+projects[view_mode_modal][subdir] 		= contrib
 
 ; Content
 projects[context][subdir] 			= contrib
