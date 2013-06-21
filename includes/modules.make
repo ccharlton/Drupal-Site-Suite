@@ -284,4 +284,6 @@ projects[votingapi][subdir] 			= contrib
 projects[diff][subdir] 					= contrib
 projects[timeago][subdir]       = contrib
 projects[extlink][subdir]       = contrib
-
+projects[filter_protocols][subdir] = contrib
+;projects[link_favicon_formatter][subdir] = contrib
+;projects[external_redirect][subdir] = contrib
