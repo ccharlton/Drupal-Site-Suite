@@ -23,6 +23,10 @@ projects[drush-hosts][subdir]   		= drush
 projects[drush_debug_tools][subdir]   	= drush
 ;projects[drush_live][subdir]       = drush
 ;projects[dslm][subdir]           = drush
+; Genova
+projects[genova][subdir]    = development
+projects[genova_entity][subdir]    = development
+projects[mforms][subdir]    = development
 
 ; Drush: Deployment, Building & Automation
 ;projects[environment][subdir]        = drush
