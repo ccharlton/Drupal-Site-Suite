@@ -28,7 +28,17 @@ projects[environment_modules][subdir] 	= contrib
 projects[devel_entity][subdir] 			= contrib
 projects[schema][subdir] 				= contrib
 projects[data][subdir] 					= contrib
+;projects[bot][subdir]          = contrib
 
 ; Deployment
 projects[git_deploy][subdir] 			= contrib
+;projects[git_sync][subdir]       = contrib
 projects[prod_check][subdir] 			= contrib
+
+; Composer
+;projects[composer_autoload][subdir]  = development
+;projects[composer_vendor][subdir] = contrib
+;projects[git_wrapper][subdir] = contrib
+
+; Symphony
+;projects[symfony][subdir] = contrib
