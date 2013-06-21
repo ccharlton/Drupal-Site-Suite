@@ -21,6 +21,7 @@ projects[drupalforfirebug][subdir] 		= development
 projects[dba][subdir] 					= development
 projects[performance][subdir] 			= development
 
+;projects[scssphp][subdir]        = contrib
 projects[querypath][subdir] 			= contrib
 projects[variable][subdir] 				= contrib
 projects[simplehtmldom][subdir] 			= contrib
