@@ -283,3 +283,5 @@ projects[job_scheduler][subdir] 			= contrib
 projects[votingapi][subdir] 			= contrib
 projects[diff][subdir] 					= contrib
 projects[timeago][subdir]       = contrib
+projects[extlink][subdir]       = contrib
+
