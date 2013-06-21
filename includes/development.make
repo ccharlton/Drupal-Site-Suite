@@ -37,6 +37,7 @@ projects[prod_check][subdir] 			= contrib
 
 ; Composer
 ;projects[composer_autoload][subdir]  = development
+;projects[composer_manager][subdir] = contrib
 ;projects[composer_vendor][subdir] = contrib
 ;projects[git_wrapper][subdir] = contrib
 
