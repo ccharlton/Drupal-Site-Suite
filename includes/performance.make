@@ -1,6 +1,9 @@
 ; High Performance
-projects[cdn][subdir] 			= contrib
+
+; Reverse Proxy
 projects[varnish][subdir] 		= contrib
+
+; OpCode Caching
 projects[apc][subdir] 			= contrib
 projects[apc_status][subdir] 	= contrib
 
@@ -16,3 +19,7 @@ projects[memcache][subdir] 		= contrib
 
 ; Cache
 ;projects[cache_graceful][subdir] 	= contrib
+
+; CDN
+;projects[akamai][subdir]     	= contrib
+projects[cdn][subdir]   		= contrib
