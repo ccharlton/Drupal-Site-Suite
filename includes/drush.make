@@ -38,8 +38,9 @@ projects[mforms][subdir]    = development
 ; Drush: Git, SVN
 ;projects[githook][subdir]         = drush
 
-; Drush: Database
+; Drush: Database & SQL
 projects[drush_sql_extras][subdir]      = drush
+;projects[drush_sql_sync_pipe][subdir]      = drush
 
 ; Drush: Caches
 ;projects[cache_warmer][subdir]         = drush
