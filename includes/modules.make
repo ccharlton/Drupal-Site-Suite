@@ -226,9 +226,10 @@ projects[password_policy][subdir] 		= contrib
 ;projects[seckit][subdir] 				= contrib
 ;projects[securelogin][subdir] 			= contrib
 ;projects[securepages][subdir] 			= contrib
-projects[flood_control][subdir] 			= contrib
+projects[flood_control][subdir] 		= contrib
+projects[flood_unblock][subdir] 		= contrib
 projects[shield][subdir] 				= contrib
-projects[settings_audit_log][subdir] 		= contrib
+projects[settings_audit_log][subdir] 	= contrib
 ;projects[role_change_notify][subdir] 	= contrib
 ;projects[permission_watchdog][subdir] 	= contrib
 ;projects[audit-trail][subdir] 			= contrib
@@ -236,6 +237,8 @@ projects[settings_audit_log][subdir] 		= contrib
 projects[securesite][subdir] 			= contrib
 projects[ip_ranges][subdir] 			= contrib
 ;projects[path_access][subdir] 			= contrib
+projects[login_security][subdir] 		= contrib
+;projects[cryptolog][subdir] 			= contrib
 
 ; Menus & Navigation
 projects[nice_menus][subdir] 		= contrib
