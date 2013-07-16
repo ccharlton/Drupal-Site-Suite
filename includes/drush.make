@@ -35,6 +35,9 @@ projects[mforms][subdir]    = development
 ;projects[drush_drake][subdir]        = drush
 ;projects[drush-vagrant][subdir]      = drush
 
+; Drush: Themes, Sass, Compass
+projects[drush_compass][subdir]      = drush
+
 ; Drush: Git, SVN
 ;projects[githook][subdir]         = drush
 
