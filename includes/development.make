@@ -39,6 +39,9 @@ projects[git_deploy][subdir] 			= contrib
 ;projects[git_sync][subdir]       		= contrib
 projects[prod_check][subdir] 			= contrib
 
+; Files
+projects[stage_file_proxy][subdir] 		= contrib
+
 ; Composer
 ;projects[composer_autoload][subdir]  	= development
 ;projects[composer_manager][subdir] 	= contrib
