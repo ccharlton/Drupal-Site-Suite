@@ -36,6 +36,9 @@ projects[force_password_change][subdir] = contrib
 projects[role_watchdog][subdir] 		= contrib
 projects[login_destination][subdir] 	= contrib
 projects[r4032login][subdir] 			= contrib
+;projects[ip][subdir] 					= contrib
+;projects[manifest][subdir] 				= contrib
+
 
 ; Fields
 projects[link][subdir] 						= contrib
@@ -58,7 +61,9 @@ projects[options_element][subdir] 			= contrib
 ;projects[field_formatter_settings][subdir] = contrib
 projects[field_group][subdir] 				= contrib
 projects[filefield_sources][subdir] 		= contrib
-projects[fences][subdir] 				= contrib
+projects[fences][subdir] 					= contrib
+projects[hierarchical_select][subdir] 		= contrib
+projects[inline_entity_form][subdir] 		= contrib
 
 ; Date & Time
 projects[date][subdir] 				= contrib
@@ -106,6 +111,7 @@ projects[nodequeue][subdir] 		= contrib
 ;projects[node_announce][subdir] 	= contrib
 projects[rabbit_hole][subdir] 		= contrib
 projects[auto_nodetitle][subdir] 	= contrib
+;projects[pages][subdir] 			= contrib
 
 ; Semantic Content
 projects[microdata][subdir] 		= contrib
@@ -166,12 +172,17 @@ projects[file_entity][subdir] 		= contrib
 projects[transliteration][subdir] 	= contrib
 
 ; Stream wrappers & Filter types
+projects[system_stream_wrapper][subdir] 	= contrib
 projects[remote_stream_wrapper][subdir] 	= contrib​
-projects[filter_protocols][subdir] 		= contrib​
+projects[filter_protocols][subdir] 			= contrib
+;projects[private_dynamic_stream][subdir] 	= contrib
+;projects[sssw][subdir] 					= contrib
+
 
 ; Feeds & RSS
-projects[feeds][subdir] 				= contrib​
+projects[feeds][subdir] 				= contrib
 projects[feeds_tamper][subdir] 			= contrib
+;projects[feed_import][subdir] 			= contrib
 ;projects[feeds_crawler][subdir] 		= contrib
 ;projects[feeds_querypath_parser][subdir] = contrib
 ;projects[feeds_spider][subdir] 			= contrib
@@ -185,8 +196,10 @@ projects[views_rss_georss][subdir] 		= contrib
 ;projects[views_rss_google_products][subdir] 	= contrib
 
 ; Forms
-projects[webform][subdir] 				= contrib​
+projects[webform][subdir] 					= contrib​
 projects[clientside_validation][subdir] 	= contrib​
+projects[entityform][subdir] 				= contrib
+projects[multiple_entity_form][subdir] 		= contrib
 
 ; Entities
 projects[entity][subdir] 			= contrib
@@ -213,6 +226,8 @@ projects[mapbox][subdir] 			= contrib
 projects[openlayers][subdir] 		= contrib
 projects[openlayers_blocks][subdir] 	= contrib
 projects[geofile][subdir] 			= contrib
+;projects[ip_geoloc_block][subdir] 	= contrib
+;projects[misery][subdir] 			= contrib
 
 ; Social Networking
 projects[service_links][subdir] 		= contrib
@@ -225,7 +240,7 @@ projects[security_questions][subdir] 	= contrib
 projects[password_policy][subdir] 		= contrib
 ;projects[seckit][subdir] 				= contrib
 ;projects[securelogin][subdir] 			= contrib
-;projects[securepages][subdir] 			= contrib
+projects[securepages][subdir] 			= contrib
 projects[flood_control][subdir] 		= contrib
 projects[flood_unblock][subdir] 		= contrib
 projects[shield][subdir] 				= contrib
@@ -239,6 +254,7 @@ projects[ip_ranges][subdir] 			= contrib
 ;projects[path_access][subdir] 			= contrib
 projects[login_security][subdir] 		= contrib
 ;projects[cryptolog][subdir] 			= contrib
+;projects[aes][subdir] 					= contrib
 
 ; Menus & Navigation
 projects[nice_menus][subdir] 		= contrib
@@ -257,32 +273,36 @@ projects[robotstxt][subdir] 			= contrib
 ; Web Services
 projects[restws][subdir] 				= contrib
 
+; Backups
+projects[backup_migrate][subdir] 		= contrib
+projects[backup_migrate_files][subdir] 	= contrib
+;projects[backup_migrate_prune][subdir] = contrib
+
 ; Misc.
 ;projects[rate][subdir] 				= contrib
-projects[backup_migrate][subdir] 		= contrib
 projects[ctools][subdir] 				= contrib
 projects[pathauto][subdir] 				= contrib
 projects[subpathauto][subdir] 			= contrib
-;projects[grammar_parser][subdir]   		= contrib
+;projects[grammar_parser][subdir]   	= contrib
 ;projects[grammar_parser_ui][subdir]  	= contrib
-;projects[disable_breadcrumbs][subdir]  	= contrib
-projects[remove_generator][subdir]  		= contrib
+;projects[disable_breadcrumbs][subdir]  = contrib
+projects[remove_generator][subdir]  	= contrib
 projects[module_filter][subdir]  		= contrib
-projects[checklistapi][subdir]  			= contrib
+projects[checklistapi][subdir]  		= contrib
 projects[addtocal][subdir]  			= contrib
 projects[legal_gen][subdir]  			= contrib
-projects[absolute_messages][subdir]  		= contrib
+projects[absolute_messages][subdir]  	= contrib
 projects[strongarm][subdir]  			= contrib
 projects[resolveip][subdir]  			= contrib
 ;projects[progress][subdir]  			= contrib
 ;projects[background_process][subdir]  	= contrib
-projects[chrome_frame][subdir]  			= contrib
+projects[chrome_frame][subdir]  		= contrib
 projects[print][subdir]  				= contrib
 projects[redirect][subdir]  			= contrib
 projects[site_map][subdir] 				= contrib
 projects[favicon][subdir] 				= contrib
 projects[sparql][subdir] 				= contrib
-projects[job_scheduler][subdir] 			= contrib
+projects[job_scheduler][subdir] 		= contrib
 projects[votingapi][subdir] 			= contrib
 projects[diff][subdir] 					= contrib
 projects[timeago][subdir]       = contrib

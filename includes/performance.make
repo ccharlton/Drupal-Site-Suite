@@ -10,6 +10,9 @@ projects[apc_status][subdir] 	= contrib
 ; Front End Performance
 projects[speedy][subdir] 	= contrib
 
+; HTTP
+;projects[httprl][subdir]   		= contrib
+
 ; Session Performance
 projects[state][subdir] 	= contrib
 
