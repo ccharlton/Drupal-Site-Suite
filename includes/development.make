@@ -12,35 +12,38 @@ projects[form_builder][subdir] 			= development
 projects[profiler][subdir] 				= development
 projects[simpletest][subdir] 			= development
 projects[grammar_parser][subdir] 		= development
-projects[grammar_parser_ui][subdir] 		= development
-projects[grammar_parser_lib][subdir] 		= development
+projects[grammar_parser_ui][subdir] 	= development
+projects[grammar_parser_lib][subdir] 	= development
 projects[XHProf][subdir] 				= development
-projects[secure_code_review][subdir] 		= development
+projects[secure_code_review][subdir] 	= development
 ;projects[api][subdir] 					= development
 projects[drupalforfirebug][subdir] 		= development
 projects[dba][subdir] 					= development
 projects[performance][subdir] 			= development
 
-;projects[scssphp][subdir]        = contrib
+;projects[scssphp][subdir]        		= contrib
 projects[querypath][subdir] 			= contrib
 projects[variable][subdir] 				= contrib
-projects[simplehtmldom][subdir] 			= contrib
+projects[simplehtmldom][subdir] 		= contrib
 projects[environment_modules][subdir] 	= contrib
 projects[devel_entity][subdir] 			= contrib
 projects[schema][subdir] 				= contrib
 projects[data][subdir] 					= contrib
-;projects[bot][subdir]          = contrib
+;projects[bot][subdir]          		= contrib
+
+; Code/Development
+projects[genova][subdir] 				= contrib
 
 ; Deployment
 projects[git_deploy][subdir] 			= contrib
-;projects[git_sync][subdir]       = contrib
+;projects[git_sync][subdir]       		= contrib
 projects[prod_check][subdir] 			= contrib
 
 ; Composer
-;projects[composer_autoload][subdir]  = development
-;projects[composer_manager][subdir] = contrib
-;projects[composer_vendor][subdir] = contrib
-;projects[git_wrapper][subdir] = contrib
+;projects[composer_autoload][subdir]  	= development
+;projects[composer_manager][subdir] 	= contrib
+;projects[composer_vendor][subdir] 		= contrib
+;projects[git_wrapper][subdir] 			= contrib
 
 ; Symphony
-;projects[symfony][subdir] = contrib
+;projects[symfony][subdir] 				= contrib

@@ -20,6 +20,7 @@ projects[delta][subdir] 			= contrib
 ;projects[skinr][subdir] 			= contrib
 projects[themesettings_extras][subdir] = contrib
 projects[breakpoints][subdir] 		= contrib
+;projects[responder][subdir] 		= contrib
 
 ; Web Fonts
 projects[fontyourface][subdir] 		= contrib
