@@ -22,6 +22,9 @@ projects[themesettings_extras][subdir] = contrib
 projects[breakpoints][subdir] 		= contrib
 ;projects[responder][subdir] 		= contrib
 
+; Theme development
+scssphp
+
 ; Web Fonts
 projects[fontyourface][subdir] 		= contrib
 projects[google_fonts][subdir] 		= contrib
