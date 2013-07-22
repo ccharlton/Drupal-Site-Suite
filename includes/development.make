@@ -2,6 +2,7 @@
 projects[devel][subdir] 				= development
 projects[devel_themer][subdir] 			= development
 projects[devel_bonus][subdir] 			= development
+;projects[devel_if][subdir] 			= development
 projects[coder][subdir] 				= development
 projects[coder_tough_love][subdir] 		= development
 projects[examples][subdir] 				= development
