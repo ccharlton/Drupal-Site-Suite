@@ -22,6 +22,7 @@ projects[memcache][subdir] 		= contrib
 
 ; Cache
 ;projects[cache_graceful][subdir] 	= contrib
+projects[cache_actions][subdir] 	= contrib
 
 ; CDN
 ;projects[akamai][subdir]     	= contrib
