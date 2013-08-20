@@ -18,6 +18,8 @@ projects[drush_entity][subdir] 			= drush
 ; Drush: Domains & Vhosts
 projects[feather][subdir]   			= drush
 projects[drush-hosts][subdir]   		= drush
+libraries[vhost_gen][download][type] = "file"
+libraries[vhost_gen][download][url] = "https://github.com/martinov/vhost_gen/archive/master.zip"
 
 ; Drush: Development
 projects[drush_debug_tools][subdir]   	= drush
