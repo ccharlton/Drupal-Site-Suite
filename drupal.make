@@ -1,6 +1,6 @@
 ; Drush Make files for Drupal sites containing many common modules.
 ; Written by Chris Charlton http://xtnd.us http://chrischarlton.us
-; Version 1.0-dev
+; Version 1.0.1-dev
 
 core = 7.x
 api = 2
@@ -24,3 +24,4 @@ includes[themes] = includes/themes.make
 
 ; Custom
 ;includes[custom] = custom.make
+;includes[patches] = includes/patches.make
