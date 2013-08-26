@@ -182,6 +182,8 @@ projects[colorbox][subdir] 				= contrib
 projects[lazyloader][subdir] 			= contrib
 ;projects[imagefield_crop][subdir] 		= contrib
 projects[image_style_quality][subdir] 	= contrib
+;projects[collageformatter][subdir] 	= contrib
+;projects[imagematrix][subdir] 			= contrib
 
 ; Video & Media
 ;projects[video_embed_field][subdir] 		= contrib
