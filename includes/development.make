@@ -21,6 +21,7 @@ projects[secure_code_review][subdir] 	= development
 projects[drupalforfirebug][subdir] 		= development
 projects[dba][subdir] 					= development
 projects[performance][subdir] 			= development
+projects[memory_profiler][subdir] 		= development
 
 ;projects[scssphp][subdir]        		= contrib
 projects[querypath][subdir] 			= contrib
@@ -31,6 +32,7 @@ projects[devel_entity][subdir] 			= contrib
 projects[schema][subdir] 				= contrib
 projects[data][subdir] 					= contrib
 ;projects[bot][subdir]          		= contrib
+projects[devel_if][subdir] 				= contrib
 
 ; Code/Development
 projects[genova][subdir] 				= contrib

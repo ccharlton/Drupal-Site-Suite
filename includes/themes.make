@@ -6,10 +6,12 @@ projects[] = zen
 ; Administration Themes
 projects[] = tao
 projects[] = rubik
+projects[] = ember
 
 ; Other themes
 ;projects[] = adaptivetheme
 ;projects[] = boilerplate
+;projects[] = responsive_bartik
 
 ; Zen Sub-themes
 ;projects[] = boron

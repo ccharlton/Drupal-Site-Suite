@@ -8,7 +8,10 @@ projects[systeminfo][subdir] 			= contrib
 projects[better_statistics][subdir] 		= contrib
 
 ; Monitoring & Tracking
-projects[droptor][subdir] 			= contrib
+;projects[droptor][subdir] 			= contrib
+;projects[nagios][subdir] 			= contrib
+;projects[cacti][subdir] 			= contrib
+;projects[munin][subdir] 			= contrib
 
 ; Charts & Graphs
 projects[chart][subdir] 			= contrib

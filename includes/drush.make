@@ -49,6 +49,7 @@ projects[drush_sql_extras][subdir]      = drush
 
 ; Drush: Caches
 ;projects[cache_warmer][subdir]         = drush
+projects[drush_ecl][subdir]         	= drush
 
 ; Drush: Users & Permissions
 projects[drush_permissions][subdir]     = drush

@@ -21,9 +21,11 @@ projects[delta][subdir] 			= contrib
 projects[themesettings_extras][subdir] = contrib
 projects[breakpoints][subdir] 		= contrib
 ;projects[responder][subdir] 		= contrib
+projects[color_save_custom][subdir] = contrib
 
 ; Theme development
-scssphp
+;projects[scssphp][subdir] 			= contrib
+;projects[responsive_preview][subdir] = contrib
 
 ; Web Fonts
 projects[fontyourface][subdir] 		= contrib
@@ -41,8 +43,8 @@ projects[role_watchdog][subdir] 		= contrib
 projects[login_destination][subdir] 	= contrib
 projects[r4032login][subdir] 			= contrib
 ;projects[ip][subdir] 					= contrib
-;projects[manifest][subdir] 				= contrib
-
+;projects[manifest][subdir] 			= contrib
+projects[user_field_privacy][subdir] 	= contrib
 
 ; Fields
 projects[link][subdir] 						= contrib
@@ -68,6 +70,9 @@ projects[filefield_sources][subdir] 		= contrib
 projects[fences][subdir] 					= contrib
 projects[hierarchical_select][subdir] 		= contrib
 projects[inline_entity_form][subdir] 		= contrib
+;projects[field_permissions][subdir] 		= contrib
+;projects[conditional_fields][subdir] 		= contrib
+projects[node_display_fields][subdir] 		= contrib
 
 ; Date & Time
 projects[date][subdir] 				= contrib
@@ -116,6 +121,8 @@ projects[nodequeue][subdir] 		= contrib
 projects[rabbit_hole][subdir] 		= contrib
 projects[auto_nodetitle][subdir] 	= contrib
 ;projects[pages][subdir] 			= contrib
+;projects[textualizer][subdir] 		= contrib
+projects[expanding_formatter][subdir] 	= contrib
 
 ; Semantic Content
 projects[microdata][subdir] 		= contrib
@@ -133,21 +140,35 @@ projects[readability][subdir] 		= contrib
 projects[revisioning][subdir] 		= contrib
 projects[pathologic][subdir] 		= contrib
 ;projects[trevi][subdir] 			= contrib
+projects[form_save][subdir] 		= contrib
+projects[save_edit][subdir] 		= contrib
+projects[pasteformat][subdir] 		= contrib
+;projects[form_save_state][subdir] 	= contrib
+projects[autofloat][subdir] 		= contrib
+;projects[node_tab][subdir] 		= contrib
+;projects[remarkup][subdir] 		= contrib
+projects[advanced_text_formatter][subdir] 	= contrib
+projects[defaulttextfornode][subdir] 		= contrib
 
 ; Content Editing: WYSIWYG
 projects[wysiwyg][subdir] 			= contrib
 projects[ckeditor][subdir] 			= contrib
-projects[ckeditor_link][subdir] 		= contrib
+projects[ckeditor_link][subdir] 	= contrib
 projects[imce][subdir] 				= contrib
 projects[imce_wysiwyg][subdir] 		= contrib
+;projects[edit][subdir] 			= contrib
 
 ; Content Administration & Management
-projects[workbench][subdir] 		= contrib
-projects[workbench_access][subdir] 	= contrib
-projects[workbench_moderation][subdir] 	= contrib
-projects[workbench_media][subdir] 	= contrib
-projects[weight][subdir] 			= contrib
-projects[node_revision_delete][subdir] = contrib
+projects[workbench][subdir] 				= contrib
+projects[workbench_access][subdir] 			= contrib
+projects[workbench_moderation][subdir] 		= contrib
+projects[workbench_media][subdir] 			= contrib
+projects[weight][subdir] 					= contrib
+projects[node_revision_delete][subdir] 		= contrib
+projects[node_revision_restrict][subdir] 	= contrib
+;projects[node_reference_filter][subdir] 	= contrib
+;projects[restricted_text][subdir] 			= contrib
+;projects[content_mask][subdir] 			= contrib
 
 ; Content Migration/Importing
 ;projects[migrate][subdir] 			= contrib
@@ -157,9 +178,10 @@ projects[node_revision_delete][subdir] = contrib
 projects[taxonomy_manager][subdir] 	= contrib
 
 ; Images & Galleries
-projects[colorbox][subdir] 			= contrib
-projects[lazyloader][subdir] 		= contrib
-;projects[imagefield_crop][subdir] 	= contrib
+projects[colorbox][subdir] 				= contrib
+projects[lazyloader][subdir] 			= contrib
+;projects[imagefield_crop][subdir] 		= contrib
+projects[image_style_quality][subdir] 	= contrib
 
 ; Video & Media
 ;projects[video_embed_field][subdir] 		= contrib
@@ -212,7 +234,8 @@ projects[eva][subdir] 				= contrib
 projects[bean][subdir] 				= contrib
 projects[field_collection][subdir] 	= contrib
 ;projects[references_dialog][subdir] 	= contrib
-;projects[entity_translation][subdir] = contrib
+;projects[entity_translation][subdir] 	= contrib
+projects[eck][subdir] 				= contrib
 
 ; Rules
 projects[rules][subdir] 	= contrib
@@ -259,6 +282,9 @@ projects[ip_ranges][subdir] 			= contrib
 projects[login_security][subdir] 		= contrib
 ;projects[cryptolog][subdir] 			= contrib
 ;projects[aes][subdir] 					= contrib
+projects[prod_check][subdir] 			= contrib
+projects[node_page_disable][subdir] 	= contrib
+
 
 ; Menus & Navigation
 projects[nice_menus][subdir] 		= contrib
@@ -266,6 +292,7 @@ projects[nice_menus][subdir] 		= contrib
 projects[menu_block][subdir] 		= contrib
 ;projects[dhtml_menu][subdir] 		= contrib
 projects[menu_breadcrumb][subdir] 	= contrib
+projects[simplified_menu_admin][subdir] = contrib
 
 ; Cron
 ;projects[elysia_cron][subdir] 			= contrib
