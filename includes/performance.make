@@ -29,6 +29,7 @@ projects[entitycache_flush][subdir] = contrib
 ;projects[cache_graceful][subdir] 	= contrib
 projects[cache_actions][subdir] 	= contrib
 ;projects[blockcache_alter][subdir] 	= contrib
+projects[authcache][subdir] 		= contrib
 
 ; CDN
 ;projects[akamai][subdir]     	= contrib
