@@ -11,25 +11,28 @@ projects[apc][subdir] 			= contrib
 projects[apc_status][subdir] 	= contrib
 
 ; Front End Performance
-projects[speedy][subdir] 	= contrib
+projects[speedy][subdir] 		= contrib
 
 ; HTTP
 ;projects[httprl][subdir]   		= contrib
 
 ; Session Performance
-projects[state][subdir] 	= contrib
+projects[state][subdir] 			= contrib
 
 ; Database Performance
-projects[autoslave][subdir] 	= contrib
-projects[memcache][subdir] 		= contrib
-projects[entitycache][subdir] 	= contrib
+projects[autoslave][subdir] 		= contrib
+projects[memcache][subdir] 			= contrib
+projects[entitycache][subdir] 		= contrib
 projects[entitycache_flush][subdir] = contrib
 
 ; Cache
-;projects[cache_graceful][subdir] 	= contrib
-projects[cache_actions][subdir] 	= contrib
+;projects[cache_graceful][subdir] 		= contrib
+projects[cache_actions][subdir] 		= contrib
 ;projects[blockcache_alter][subdir] 	= contrib
-projects[authcache][subdir] 		= contrib
+projects[authcache][subdir] 			= contrib
+projects[expire][subdir] 				= contrib
+projects[purge][subdir] 				= contrib
+projects[cache_actions][subdir] 		= contrib
 
 ; CDN
 ;projects[akamai][subdir]     	= contrib
