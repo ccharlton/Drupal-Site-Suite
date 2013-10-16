@@ -97,7 +97,7 @@ projects[mandrill][subdir] 			= contrib
 ; Views
 projects[views][subdir] 				= contrib
 projects[views_bulk_operations][subdir] 	= contrib
-projects[dynamic_formatters][subdir] 		= contrib
+;projects[dynamic_formatters][subdir] 		= contrib
 projects[views_data_export][subdir] 		= contrib
 projects[views_datasource][subdir] 		= contrib
 projects[views_date_format_sql][subdir] 	= contrib

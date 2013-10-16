@@ -6,7 +6,7 @@ projects[] = zen
 ; Administration Themes
 projects[] = tao
 projects[] = rubik
-projects[] = ember
+;projects[] = ember
 
 ; Other themes
 ;projects[] = adaptivetheme

@@ -32,7 +32,8 @@ projects[cache_actions][subdir] 		= contrib
 projects[authcache][subdir] 			= contrib
 projects[expire][subdir] 				= contrib
 projects[purge][subdir] 				= contrib
-projects[cache_actions][subdir] 		= contrib
+;projects[acquia_purge][subdir] 			= contrib
+
 
 ; CDN
 ;projects[akamai][subdir]     	= contrib
