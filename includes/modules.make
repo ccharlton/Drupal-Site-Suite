@@ -286,6 +286,7 @@ projects[login_security][subdir] 		= contrib
 ;projects[aes][subdir] 					= contrib
 projects[prod_check][subdir] 			= contrib
 projects[node_page_disable][subdir] 	= contrib
+projects[username_enumeration_prevention][subdir] 	= contrib
 
 
 ; Menus & Navigation
