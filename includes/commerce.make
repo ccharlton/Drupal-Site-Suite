@@ -1,3 +1,6 @@
+; Commerce Administration Theme
+projects[shiny]
+
 ; Commerce development
 projects[commerce_examples][subdir] = development
 
