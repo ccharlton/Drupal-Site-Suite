@@ -201,7 +201,7 @@ projects[transliteration][subdir] 	= contrib
 
 ; Stream wrappers & Filter types
 projects[system_stream_wrapper][subdir] 	= contrib
-projects[remote_stream_wrapper][subdir] 	= contrib​
+projects[remote_stream_wrapper][subdir] 	= contrib
 projects[filter_protocols][subdir] 			= contrib
 ;projects[private_dynamic_stream][subdir] 	= contrib
 ;projects[sssw][subdir] 					= contrib
@@ -224,8 +224,8 @@ projects[views_rss_georss][subdir] 		= contrib
 ;projects[views_rss_google_products][subdir] 	= contrib
 
 ; Forms
-projects[webform][subdir] 					= contrib​
-projects[clientside_validation][subdir] 	= contrib​
+projects[webform][subdir] 					= contrib
+projects[clientside_validation][subdir] 	= contrib
 projects[entityform][subdir] 				= contrib
 projects[multiple_entity_form][subdir] 		= contrib
 
