@@ -254,7 +254,7 @@ projects[geofield_gmap][subdir] 		= contrib
 projects[mapbox][subdir] 			= contrib
 projects[openlayers][subdir] 		= contrib
 projects[openlayers_blocks][subdir] 	= contrib
-projects[geofile][subdir] 			= contrib
+;projects[geofile][subdir] 			= contrib
 ;projects[ip_geoloc_block][subdir] 	= contrib
 ;projects[misery][subdir] 			= contrib
 
