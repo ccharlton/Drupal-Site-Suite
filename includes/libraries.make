@@ -26,7 +26,7 @@ libraries[ckeditor][download][url] = "http://download.cksource.com/CKEditor/CKEd
 
 ; Colorbox
 libraries[colorbox][download][type] = "file"
-libraries[colorbox][download][url] = "https://github.com/jackmoore/colorbox/archive/master.zip"
+libraries[colorbox][download][url] = "https://github.com/jackmoore/colorbox/archive/1.x.zip"
 
 ; DOMPDF
 libraries[dompdf][download][type] = "file"
@@ -62,3 +62,28 @@ libraries[jquery.ui.spinner][download][url] = "https://github.com/btburnett3/jqu
 ; JSON-js (json2)
 libraries[json2][download][type] = "file"
 libraries[json2][download][url] = "https://github.com/douglascrockford/JSON-js/archive/master.zip"
+
+; plupload
+libraries[plupload][download][type] = "file"
+libraries[plupload][download][url] = "http://plupload.com/downloads/plupload_1_5_7.zip"
+
+; querypath
+libraries[querypath][download][type] = "file"
+libraries[querypath][download][url] = "https://github.com/technosophos/querypath/archive/master.zip"
+
+; signature-pad
+libraries[signature-pad][download][type] = "file"
+libraries[signature-pad][download][url] = "https://github.com/thomasjbradley/signature-pad/archive/master.zip"
+
+; jQuery Stickybox
+libraries[stickybox][download][type] = "file"
+libraries[stickybox][download][url] = "https://github.com/p-m-p/jQuery-Stickybox/archive/master.zip"
+
+; jQuery Waypoints
+libraries[waypoints][download][type] = "file"
+libraries[waypoints][download][url] = "https://github.com/imakewebthings/jquery-waypoints/zipball/latest"
+libraries[waypoints][directory_name] = "jquery.waypoints"
+
+; jQuery Timepicker
+libraries[wvega-timepicker][download][type] = "file"
+libraries[wvega-timepicker][download][url] = "https://github.com/wvega/timepicker/releases/download/1.3.1/jquery-timepicker-1.3.1.zip"
