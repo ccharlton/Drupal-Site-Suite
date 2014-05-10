@@ -11,6 +11,7 @@ projects[hacked][subdir] 				= development
 projects[module_builder][subdir] 		= development
 projects[form_builder][subdir] 			= development
 projects[profiler][subdir] 				= development
+projects[profiler_builder][subdir] 		= development
 projects[simpletest][subdir] 			= development
 projects[grammar_parser][subdir] 		= development
 projects[grammar_parser_ui][subdir] 	= development

@@ -8,6 +8,7 @@
 ;projects[take_control][subdir] 	= contrib
 ;projects[total_control][subdir] 	= contrib
 projects[admin_menu][subdir] 		= contrib
+projects[feature_set][subdir] 		= contrib
 
 ; Help & Tutorials
 projects[advanced_help][subdir] 	= contrib
