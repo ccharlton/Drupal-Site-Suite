@@ -207,6 +207,13 @@ projects[filter_protocols][subdir] 			= contrib
 ;projects[private_dynamic_stream][subdir] 	= contrib
 ;projects[sssw][subdir] 					= contrib
 
+; Acquia
+;projects[acquia_connector][subdir] = contrib
+;projects[acquia_cloud_dashboard][subdir] = contrib
+;projects[acquia_mobile_redirect][subdir] = contrib
+;projects[acquia_cloud_sticky_sessions][subdir] = contrib
+;projects[acquia_purge][subdir] = contrib
+;includes[acquia_lift] = https://gist.githubusercontent.com/katbailey/9328682/raw/d6a8b6ce010e66085134da204561ceffb3a92553/acquia_lift.make
 
 ; Feeds & RSS
 projects[feeds][subdir] 				= contrib
