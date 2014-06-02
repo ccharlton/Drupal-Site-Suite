@@ -65,7 +65,7 @@ libraries[json2][download][url] = "https://github.com/douglascrockford/JSON-js/a
 
 ; plupload
 libraries[plupload][download][type] = "file"
-libraries[plupload][download][url] = "http://plupload.com/downloads/plupload_1_5_7.zip"
+libraries[plupload][download][url] = "https://github.com/moxiecode/plupload/archive/v1.5.8.zip"
 
 ; querypath
 libraries[querypath][download][type] = "file"
