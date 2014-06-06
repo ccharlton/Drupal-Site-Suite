@@ -7,12 +7,14 @@ projects[] = zen
 projects[] = tao
 projects[] = rubik
 projects[] = shiny
-;projects[] = ember
+projects[] = ember
 
 ; Other themes
 ;projects[] = adaptivetheme
 ;projects[] = boilerplate
 ;projects[] = responsive_bartik
+;projects[] = radix
+
 
 ; Zen Sub-themes
 ;projects[] = boron
