@@ -5,10 +5,11 @@
 ;projects[admin][subdir] 			= contrib
 ;projects[drd][subdir] 				= contrib
 ;projects[drd_server][subdir] 		= contrib
-;projects[take_control][subdir] 	= contrib
+;projects[take_control][subdir] 		= contrib
 ;projects[total_control][subdir] 	= contrib
 projects[admin_menu][subdir] 		= contrib
 projects[feature_set][subdir] 		= contrib
+projects[navbar][subdir] 			= contrib
 
 ; Help & Tutorials
 projects[advanced_help][subdir] 	= contrib
@@ -46,6 +47,7 @@ projects[r4032login][subdir] 			= contrib
 ;projects[ip][subdir] 					= contrib
 ;projects[manifest][subdir] 			= contrib
 projects[user_field_privacy][subdir] 	= contrib
+;projects[privatemsg][subdir] 	= contrib
 
 ; Fields
 projects[link][subdir] 						= contrib
@@ -88,12 +90,19 @@ projects[recaptcha][subdir] 		= contrib
 ; E-mail
 ;projects[queue_ui][subdir] 		= contrib
 projects[mail_edit][subdir] 		= contrib
-projects[subscriptions][subdir] 		= contrib
-projects[bounce][subdir] 			= contrib
-projects[smtp][subdir] 				= contrib
-projects[mailchimp][subdir] 		= contrib
-projects[mcc][subdir] 				= contrib
-projects[mandrill][subdir] 			= contrib
+;projects[subscriptions][subdir] 		= contrib
+;projects[mimemail][subdir] 		= contrib
+;projects[bounce][subdir] 			= contrib
+;projects[smtp][subdir] 				= contrib
+;projects[mailchimp][subdir] 		= contrib
+;projects[mcc][subdir] 				= contrib
+;projects[mandrill][subdir] 			= contrib
+;projects[newsletter][subdir] 		= contrib
+;projects[simplenews][subdir] 		= contrib
+;projects[maillog][subdir] 		= contrib
+;projects[advanced_mail_reroute][subdir] 		= contrib
+;projects[mail_logger][subdir] 		= contrib
+;projects[reroute_email][subdir] 		= contrib
 
 ; Views
 projects[views][subdir] 				= contrib
@@ -110,6 +119,8 @@ projects[views_dependent_filters][subdir] = contrib
 projects[views_infinite_scroll][subdir] 	= contrib
 ;projects[views_php][subdir] 			= contrib
 projects[view_mode_modal][subdir] 		= contrib
+projects[views_load_more][subdir] 		= contrib
+projects[views_litepager][subdir] 		= contrib
 
 ; Content
 projects[context][subdir] 			= contrib
@@ -183,8 +194,10 @@ projects[colorbox][subdir] 				= contrib
 projects[lazyloader][subdir] 			= contrib
 ;projects[imagefield_crop][subdir] 		= contrib
 projects[image_style_quality][subdir] 	= contrib
-;projects[collageformatter][subdir] 	= contrib
+;projects[collageformatter][subdir] 		= contrib
 ;projects[imagematrix][subdir] 			= contrib
+projects[imagecache_token][subdir] 		= contrib
+projects[galleryformatter][subdir] 		= contrib
 
 ; Video & Media
 ;projects[video_embed_field][subdir] 		= contrib
@@ -214,6 +227,9 @@ projects[filter_protocols][subdir] 			= contrib
 ;projects[acquia_cloud_sticky_sessions][subdir] = contrib
 ;projects[acquia_purge][subdir] = contrib
 ;includes[acquia_lift] = https://gist.githubusercontent.com/katbailey/9328682/raw/d6a8b6ce010e66085134da204561ceffb3a92553/acquia_lift.make
+
+; Panels
+;projects[panels][subdir] 				= contrib
 
 ; Feeds & RSS
 projects[feeds][subdir] 				= contrib
@@ -246,6 +262,7 @@ projects[field_collection][subdir] 	= contrib
 ;projects[references_dialog][subdir] 	= contrib
 ;projects[entity_translation][subdir] 	= contrib
 projects[eck][subdir] 				= contrib
+projects[registration][subdir] 		= contrib
 
 ; Rules
 projects[rules][subdir] 	= contrib
@@ -296,14 +313,22 @@ projects[prod_check][subdir] 			= contrib
 projects[node_page_disable][subdir] 	= contrib
 projects[username_enumeration_prevention][subdir] 	= contrib
 
-
 ; Menus & Navigation
-projects[nice_menus][subdir] 		= contrib
-;projects[menu_position][subdir] 	= contrib
-projects[menu_block][subdir] 		= contrib
-;projects[dhtml_menu][subdir] 		= contrib
-projects[menu_breadcrumb][subdir] 	= contrib
-projects[simplified_menu_admin][subdir] = contrib
+projects[nice_menus][subdir] 			= contrib
+;projects[menu_position][subdir] 		= contrib
+projects[menu_block][subdir] 			= contrib
+;projects[dhtml_menu][subdir] 			= contrib
+projects[menu_breadcrumb][subdir] 		= contrib
+projects[simplified_menu_admin][subdir] 	= contrib
+projects[special_menu_items][subdir] 		= contrib
+
+; Icons
+;projects[icon][subdir] 					= contrib
+;projects[icomoon][subdir] 					= contrib
+;projects[fontello][subdir] 				= contrib
+;projects[fontawesome][subdir] 				= contrib
+;projects[icon][subdir] 					= contrib
+
 
 ; Cron
 ;projects[elysia_cron][subdir] 			= contrib
@@ -347,8 +372,13 @@ projects[sparql][subdir] 				= contrib
 projects[job_scheduler][subdir] 		= contrib
 projects[votingapi][subdir] 			= contrib
 projects[diff][subdir] 					= contrib
-projects[timeago][subdir]       = contrib
-projects[extlink][subdir]       = contrib
-projects[filter_protocols][subdir] = contrib
+projects[timeago][subdir]       			= contrib
+projects[extlink][subdir]       			= contrib
+projects[filter_protocols][subdir] 		= contrib
 ;projects[link_favicon_formatter][subdir] = contrib
-;projects[external_redirect][subdir] = contrib
+;projects[external_redirect][subdir] 		= contrib
+projects[quicktabs][subdir] 			= contrib
+projects[scrollreveal][subdir] 			= contrib
+projects[parallax_bg][subdir] 			= contrib
+projects[bootstrap_library][subdir] 		= contrib
+projects[superfish][subdir] 			= contrib
