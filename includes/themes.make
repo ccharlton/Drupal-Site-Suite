@@ -15,6 +15,8 @@ projects[] = ember
 ;projects[] = responsive_bartik
 ;projects[] = radix
 
+; Core replacement
+;projects[] = responsive_bartik
 
 ; Zen Sub-themes
 ;projects[] = boron

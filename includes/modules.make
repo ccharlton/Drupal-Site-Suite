@@ -10,6 +10,7 @@
 projects[admin_menu][subdir] 		= contrib
 projects[feature_set][subdir] 		= contrib
 projects[navbar][subdir] 			= contrib
+projects[simplified_menu_admin][subdir] 	= contrib
 
 ; Help & Tutorials
 projects[advanced_help][subdir] 	= contrib
@@ -24,6 +25,8 @@ projects[themesettings_extras][subdir] = contrib
 projects[breakpoints][subdir] 		= contrib
 ;projects[responder][subdir] 		= contrib
 projects[color_save_custom][subdir] = contrib
+;projects[layout][subdir] 			= contrib
+
 
 ; Theme development
 ;projects[scssphp][subdir] 			= contrib
@@ -76,6 +79,7 @@ projects[inline_entity_form][subdir] 		= contrib
 ;projects[field_permissions][subdir] 		= contrib
 ;projects[conditional_fields][subdir] 		= contrib
 projects[node_display_fields][subdir] 		= contrib
+every_field
 
 ; Date & Time
 projects[date][subdir] 				= contrib
@@ -198,6 +202,7 @@ projects[image_style_quality][subdir] 	= contrib
 ;projects[imagematrix][subdir] 			= contrib
 projects[imagecache_token][subdir] 		= contrib
 projects[galleryformatter][subdir] 		= contrib
+projects[picture][subdir] 				= contrib
 
 ; Video & Media
 ;projects[video_embed_field][subdir] 		= contrib
@@ -329,7 +334,6 @@ projects[special_menu_items][subdir] 		= contrib
 ;projects[fontawesome][subdir] 				= contrib
 ;projects[icon][subdir] 					= contrib
 
-
 ; Cron
 ;projects[elysia_cron][subdir] 			= contrib
 ;projects[ultimate_cron][subdir] 		= contrib
@@ -382,3 +386,6 @@ projects[scrollreveal][subdir] 			= contrib
 projects[parallax_bg][subdir] 			= contrib
 projects[bootstrap_library][subdir] 		= contrib
 projects[superfish][subdir] 			= contrib
+;projects[gridbuilder][subdir] 			= contrib
+projects[jquery_update][subdir] 			= contrib
+json2
