@@ -27,7 +27,6 @@ projects[breakpoints][subdir] 		= contrib
 projects[color_save_custom][subdir] = contrib
 ;projects[layout][subdir] 			= contrib
 
-
 ; Theme development
 ;projects[scssphp][subdir] 			= contrib
 ;projects[responsive_preview][subdir] = contrib
