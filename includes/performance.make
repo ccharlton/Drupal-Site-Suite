@@ -12,6 +12,10 @@ projects[apc_status][subdir] 	= contrib
 
 ; Front End Performance
 projects[speedy][subdir] 		= contrib
+projects[magic][subdir] 		= contrib
+projects[core_library][subdir] 	= contrib
+projects[advagg][subdir] 		= contrib
+projects[simple_aggregation][subdir] 	= contrib
 
 ; HTTP
 ;projects[httprl][subdir]   		= contrib
@@ -33,7 +37,6 @@ projects[authcache][subdir] 			= contrib
 projects[expire][subdir] 				= contrib
 projects[purge][subdir] 				= contrib
 ;projects[acquia_purge][subdir] 			= contrib
-
 
 ; CDN
 ;projects[akamai][subdir]     	= contrib
