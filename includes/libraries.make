@@ -22,7 +22,7 @@ libraries[autopager][download][url] = "https://jquery-autopager.googlecode.com/f
 
 ; CK Editor
 libraries[ckeditor][download][type] = "file"
-libraries[ckeditor][download][url] = "http://download.cksource.com/CKEditor/CKEditor/CKEditor%204.3.1/ckeditor_4.3.1_full.zip"
+libraries[ckeditor][download][url] = "http://download.cksource.com/CKEditor/CKEditor/CKEditor%204.4.1/ckeditor_4.4.1_full.zip"
 
 ; Colorbox
 libraries[colorbox][download][type] = "file"
@@ -87,3 +87,14 @@ libraries[waypoints][directory_name] = "jquery.waypoints"
 ; jQuery Timepicker
 libraries[wvega-timepicker][download][type] = "file"
 libraries[wvega-timepicker][download][url] = "https://github.com/wvega/timepicker/releases/download/1.3.1/jquery-timepicker-1.3.1.zip"
+
+; jQuery ImagesLoaded
+libraries[imagesloaded][download][type] = "file"
+libraries[imagesloaded][download][url] = "http://imagesloaded.desandro.com/imagesloaded.pkgd.min.js"
+libraries[imagesloaded][download][type] = "file"
+libraries[imagesloaded][download][url] = "http://imagesloaded.desandro.com/imagesloaded.pkgd.js"
+libraries[imagesloaded][directory_name] = "jquery.imagesloaded"
+
+; jQuery Timeago
+libraries[timeago][download][type] = "file"
+libraries[timeago][download][url] = "http://timeago.yarp.com/jquery.timeago.js"
