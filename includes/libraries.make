@@ -98,3 +98,7 @@ libraries[imagesloaded][directory_name] = "jquery.imagesloaded"
 ; jQuery Timeago
 libraries[timeago][download][type] = "file"
 libraries[timeago][download][url] = "http://timeago.yarp.com/jquery.timeago.js"
+
+; PHP QR Code
+libraries[phpqrcode][download][type] = "file"
+libraries[phpqrcode][download][url] = "http://downloads.sourceforge.net/project/phpqrcode/releases/phpqrcode-2010100721_1.1.4.zip"
