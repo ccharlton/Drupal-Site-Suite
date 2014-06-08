@@ -56,6 +56,7 @@ projects[link][subdir] 						= contrib
 projects[advanced_link][subdir] 			= contrib
 projects[custom_formatters][subdir] 		= contrib
 projects[token_formatters][subdir] 			= contrib
+projects[token_custom][subdir] 			= contrib
 projects[file_formatters][subdir] 			= contrib
 projects[entityreference][subdir] 			= contrib
 projects[textformatter][subdir] 			= contrib
@@ -387,4 +388,5 @@ projects[bootstrap_library][subdir] 		= contrib
 projects[superfish][subdir] 			= contrib
 ;projects[gridbuilder][subdir] 			= contrib
 projects[jquery_update][subdir] 			= contrib
-json2
+;projects[json2][subdir] 				= contrib
+;projects[shorten][subdir] 				= contrib
