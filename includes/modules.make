@@ -26,6 +26,7 @@ projects[breakpoints][subdir] 		= contrib
 ;projects[responder][subdir] 		= contrib
 projects[color_save_custom][subdir] = contrib
 ;projects[layout][subdir] 			= contrib
+projects[ds][subdir] 				= contrib
 
 ; Theme development
 ;projects[scssphp][subdir] 			= contrib
@@ -50,6 +51,8 @@ projects[r4032login][subdir] 			= contrib
 ;projects[manifest][subdir] 			= contrib
 projects[user_field_privacy][subdir] 	= contrib
 ;projects[privatemsg][subdir] 	= contrib
+projects[oauth][subdir] 			= contrib
+;projects[vcard][subdir] 				= contrib
 
 ; Fields
 projects[link][subdir] 						= contrib
@@ -79,7 +82,7 @@ projects[inline_entity_form][subdir] 		= contrib
 ;projects[field_permissions][subdir] 		= contrib
 ;projects[conditional_fields][subdir] 		= contrib
 projects[node_display_fields][subdir] 		= contrib
-every_field
+projects[every_field][subdir] 		= contrib
 
 ; Date & Time
 projects[date][subdir] 				= contrib
@@ -195,6 +198,7 @@ projects[taxonomy_manager][subdir] 	= contrib
 
 ; Images & Galleries
 projects[colorbox][subdir] 				= contrib
+projects[colorbox_node][subdir] 				= contrib
 projects[lazyloader][subdir] 			= contrib
 ;projects[imagefield_crop][subdir] 		= contrib
 projects[image_style_quality][subdir] 	= contrib
@@ -264,10 +268,14 @@ projects[entity_view_mode][subdir] 	= contrib
 projects[eva][subdir] 				= contrib
 projects[bean][subdir] 				= contrib
 projects[field_collection][subdir] 	= contrib
+projects[references][subdir] 		= contrib
 ;projects[references_dialog][subdir] 	= contrib
 ;projects[entity_translation][subdir] 	= contrib
 projects[eck][subdir] 				= contrib
 projects[registration][subdir] 		= contrib
+projects[entityreference_view_widget][subdir] = contrib
+;projects[entityreference_prepopulate][subdir] = contrib
+projects[token_insert_entity][subdir] = contrib
 
 ; Rules
 projects[rules][subdir] 	= contrib
@@ -288,8 +296,17 @@ projects[openlayers_blocks][subdir] 	= contrib
 ;projects[ip_geoloc_block][subdir] 	= contrib
 ;projects[misery][subdir] 			= contrib
 
-; Social Networking
+; Social Networking & Sharing
 projects[service_links][subdir] 		= contrib
+projects[twitter][subdir] 			= contrib
+projects[tweet][subdir] 			= contrib
+projects[tweetbutton][subdir] 		= contrib
+;projects[service_links][subdir] 		= contrib
+projects[forward][subdir]	 		= contrib
+;projects[karmacracy][subdir]	 		= contrib
+
+; Mobile, Devices
+;projects[mobile_codes][subdir]	 		= contrib
 
 ; Security & Auditing
 projects[security_review][subdir] 		= contrib
@@ -390,3 +407,4 @@ projects[superfish][subdir] 			= contrib
 projects[jquery_update][subdir] 			= contrib
 ;projects[json2][subdir] 				= contrib
 ;projects[shorten][subdir] 				= contrib
+;projects[shurly][subdir] 				= contrib
