@@ -10,6 +10,9 @@ projects[domain_301_redirect][subdir] = contrib
 projects[apc][subdir] 			= contrib
 projects[apc_status][subdir] 	= contrib
 
+; PHP
+projects[page_memory_limit][subdir] 	= contrib
+
 ; Front End Performance
 projects[speedy][subdir] 		= contrib
 projects[magic][subdir] 		= contrib
