@@ -128,6 +128,7 @@ projects[views_infinite_scroll][subdir] 	= contrib
 projects[view_mode_modal][subdir] 		= contrib
 projects[views_load_more][subdir] 		= contrib
 projects[views_litepager][subdir] 		= contrib
+projects[views_url_alias][subdir] 		= contrib
 
 ; Content
 projects[context][subdir] 			= contrib
