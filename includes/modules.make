@@ -10,7 +10,14 @@
 projects[admin_menu][subdir] 		= contrib
 projects[feature_set][subdir] 		= contrib
 projects[navbar][subdir] 			= contrib
+projects[escape_admin][subdir] 		= contrib
 projects[simplified_menu_admin][subdir] 	= contrib
+projects[configuration][subdir] 		= contrib
+
+; PHP & Libraries
+projects[xautoload][subdir] 		= contrib
+;projects[composer_manager][subdir] 		= contrib
+;projects[drupal_symfony_inject][subdir] 		= contrib
 
 ; Help & Tutorials
 projects[advanced_help][subdir] 	= contrib
@@ -31,6 +38,7 @@ projects[ds][subdir] 				= contrib
 ; Theme development
 ;projects[scssphp][subdir] 			= contrib
 ;projects[responsive_preview][subdir] = contrib
+;projects[twig][subdir] 			= contrib
 
 ; Web Fonts
 projects[fontyourface][subdir] 		= contrib
@@ -213,6 +221,7 @@ projects[picture][subdir] 				= contrib
 ;projects[video_embed_field][subdir] 		= contrib
 ;projects[vimeo_link_formatter][subdir] 	= contrib
 ;projects[ffmpeg_wrapper][subdir] 		= contrib
+;projects[php-ffmpeg][subdir] 		= contrib
 projects[media][subdir] 				= contrib
 ;projects[getid3][subdir] 				= contrib
 projects[emfield][subdir] 				= contrib
@@ -308,6 +317,9 @@ projects[forward][subdir]	 		= contrib
 
 ; Mobile, Devices
 ;projects[mobile_codes][subdir]	 		= contrib
+;projects[mobile_detect][subdir]	 		= contrib
+;projects[mobile_detect_api][subdir]	 		= contrib
+;projects[context_mobile_detect][subdir]	 		= contrib
 
 ; Security & Auditing
 projects[security_review][subdir] 		= contrib
@@ -335,6 +347,9 @@ projects[login_security][subdir] 		= contrib
 projects[prod_check][subdir] 			= contrib
 projects[node_page_disable][subdir] 	= contrib
 projects[username_enumeration_prevention][subdir] 	= contrib
+projects[ironcurtain][subdir] 			= contrib
+projects[psr3_watchdog][subdir] 			= contrib
+projects[monolog][subdir] 			= contrib
 
 ; Menus & Navigation
 projects[nice_menus][subdir] 			= contrib

@@ -3,6 +3,8 @@ projects[search_api][subdir] 			= contrib
 projects[facetapi][subdir] 				= contrib
 projects[search_config][subdir] 		= contrib
 projects[search404][subdir] 			= contrib
+;projects[lucene_library][subdir] 			= contrib
+;projects[lucenelog][subdir] 			= contrib
 
 ; Search API
 projects[search_api_solr][subdir] 				= contrib
