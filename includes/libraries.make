@@ -102,3 +102,7 @@ libraries[timeago][download][url] = "http://timeago.yarp.com/jquery.timeago.js"
 ; PHP QR Code
 libraries[phpqrcode][download][type] = "file"
 libraries[phpqrcode][download][url] = "http://downloads.sourceforge.net/project/phpqrcode/releases/phpqrcode-2010100721_1.1.4.zip"
+
+; Mobile Detect
+libraries[Mobile_Detect][download][type] = "file"
+libraries[Mobile_Detect][download][url] = "https://github.com/serbanghita/Mobile-Detect/archive/master.zip"
