@@ -91,6 +91,8 @@ projects[inline_entity_form][subdir] 		= contrib
 ;projects[conditional_fields][subdir] 		= contrib
 projects[node_display_fields][subdir] 		= contrib
 projects[every_field][subdir] 		= contrib
+;projects[creative_commons][subdir] 			= contrib
+;projects[download][subdir] 			= contrib
 
 ; Date & Time
 projects[date][subdir] 				= contrib
@@ -137,6 +139,7 @@ projects[view_mode_modal][subdir] 		= contrib
 projects[views_load_more][subdir] 		= contrib
 projects[views_litepager][subdir] 		= contrib
 projects[views_url_alias][subdir] 		= contrib
+projects[views_content_cache][subdir] 		= contrib
 
 ; Content
 projects[context][subdir] 			= contrib

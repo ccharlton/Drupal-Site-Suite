@@ -106,3 +106,7 @@ libraries[phpqrcode][download][url] = "http://downloads.sourceforge.net/project/
 ; Mobile Detect
 libraries[Mobile_Detect][download][type] = "file"
 libraries[Mobile_Detect][download][url] = "https://github.com/serbanghita/Mobile-Detect/archive/master.zip"
+
+; pclzip
+libraries[pclzip][download][type] = "file"
+libraries[pclzip][download][url] = "http://www.phpconcept.net/download.php?file=pclzip-2-8-2.zip"

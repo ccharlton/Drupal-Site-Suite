@@ -9,6 +9,7 @@ projects[domain_301_redirect][subdir] = contrib
 ; OpCode Caching
 projects[apc][subdir] 			= contrib
 projects[apc_status][subdir] 	= contrib
+projects[apc_admin][subdir] 	= contrib
 
 ; PHP
 projects[page_memory_limit][subdir] 	= contrib
