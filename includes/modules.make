@@ -33,12 +33,15 @@ projects[breakpoints][subdir] 		= contrib
 ;projects[responder][subdir] 		= contrib
 projects[color_save_custom][subdir] = contrib
 ;projects[layout][subdir] 			= contrib
-projects[ds][subdir] 				= contrib
 
 ; Theme development
 ;projects[scssphp][subdir] 			= contrib
 ;projects[responsive_preview][subdir] = contrib
 ;projects[twig][subdir] 			= contrib
+
+; Display Suite
+projects[ds][subdir] 				= contrib
+projects[ds_bootstrap_layouts] 		= "7.x-3.x-dev"
 
 ; Web Fonts
 projects[fontyourface][subdir] 		= contrib
