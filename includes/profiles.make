@@ -18,6 +18,14 @@
 ;projects[drupalorg_testing][download][revision] = "7.x-1.x-dev"
 
 
+; Drupal Commerce Kickstart
+;projects[commerce_kickstart][type] = "profile"
+
+
+; Drupal Commons
+;projects[commons][type] = "profile"
+
+
 ; Spark (consider Lightning over Spark since it includes more)
 ;projects[spark][type] = "profile"
 ;projects[spark][download][type] = "git"
@@ -26,23 +34,11 @@
 
 ; Open Atrium
 ;projects[openatrium][type] = "profile"
-;projects[openatrium][download][type] = "git"
-;projects[openatrium][download][branch] = "7.x-2.x"
 ;projects[subprofiles][subdir] = contrib
-
-
-; Acquia Drupal
-; ???
-
-
-; Drupal Commerce Kickstart
-;projects[commerce_kickstart][type] = "profile"
-;projects[commerce_kickstart][download][type] = "git"
 
 
 ; Open Publish
 ;projects[openpublish][type] = "profile"
-;projects[openpublish][download][type] = "git"
 
 
 ; DKAN
