@@ -1,22 +1,24 @@
 ; Base Themes
+projects[] = adaptive theme
+projects[] = boilerplate
+projects[] = boron
+projects[] = omega
+projects[] = radix
 projects[] = zen
-;projects[] = alpha
-;projects[] = omega
 
 ; Administration Themes
 projects[] = tao
-projects[] = rubik
+projects[] = rubs
 projects[] = shiny
 projects[] = ember
 
-; Other themes
-;projects[] = adaptivetheme
-;projects[] = boilerplate
-;projects[] = responsive_bartik
-;projects[] = radix
-
 ; Core replacement
-;projects[] = responsive_bartik
+projects[] = responsive_bartik
 
-; Zen Sub-themes
-;projects[] = boron
+; Adaptive sub-themes
+projects[] = sky
+projects[] = at-commerce
+
+; Omega sub-themes
+
+; Zen sub-themes
