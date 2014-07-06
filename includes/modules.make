@@ -33,6 +33,7 @@ projects[breakpoints][subdir] 		= contrib
 ;projects[responder][subdir] 		= contrib
 projects[color_save_custom][subdir] = contrib
 ;projects[layout][subdir] 			= contrib
+projects[ember_support] 			= contrib 
 
 ; Theme development
 ;projects[scssphp][subdir] 			= contrib
