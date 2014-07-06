@@ -16,9 +16,15 @@ projects[] = ember
 projects[] = responsive_bartik
 
 ; Adaptive sub-themes
-projects[] = sky
 projects[] = at-commerce
+;projects[] = corolla
+;projects[] = footheme
+;projects[] = pixture_reloaded
+;projects[] = sky
 
 ; Omega sub-themes
+;projects[] = businesstime
+projects[] = omega_kickstart
+projects[] = respond
 
 ; Zen sub-themes
