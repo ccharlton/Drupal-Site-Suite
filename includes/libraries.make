@@ -110,3 +110,13 @@ libraries[Mobile_Detect][download][url] = "https://github.com/serbanghita/Mobile
 ; pclzip
 libraries[pclzip][download][type] = "file"
 libraries[pclzip][download][url] = "http://www.phpconcept.net/download.php?file=pclzip-2-8-2.zip"
+
+; FlexSlider
+libraries[flexslider][download][type] = "file"
+libraries[flexslider][download][url] = "https://github.com/woothemes/FlexSlider/zipball/master"
+libraries[flexslider][download][type] = "file"
+
+; Galleria
+libraries[galleria][download][type] = "file"
+libraries[galleria][download][url] = "https://github.com/aino/galleria/zipball/master"
+libraries[galleria][download][type] = "file"
