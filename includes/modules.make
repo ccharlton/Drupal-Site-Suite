@@ -36,6 +36,8 @@ projects[color_save_custom][subdir] = contrib
 ;projects[layout][subdir] 			= contrib
 projects[ember_support] 			= contrib 
 projects[echo] 					= contrib
+projects[css_injector] 				= contrib
+projects[js_injector] 				= contrib
 
 ; Theme development
 ;projects[scssphp][subdir] 			= contrib
@@ -392,6 +394,7 @@ projects[menu_breadcrumb][subdir] 		= contrib
 projects[simplified_menu_admin][subdir] 	= contrib
 projects[special_menu_items][subdir] 		= contrib
 projects[menu_attributes][subdir] 		= contrib
+;projects[cssmenu][subdir] 				= contrib
 
 ; Icons
 ;projects[icon][subdir] 					= contrib
