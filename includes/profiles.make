@@ -15,7 +15,7 @@
 ; Lightning
 ;projects[drupalorg_testing][type] = "profile"
 ;projects[drupalorg_testing][download][type] = "git"
-;projects[drupalorg_testing][download][revision] = "master"
+;projects[drupalorg_testing][download][revision] = "7.x-1.x-dev"
 
 
 ; Spark (consider Lightning over Spark since it includes more)
@@ -43,3 +43,9 @@
 ; Open Publish
 ;projects[openpublish][type] = "profile"
 ;projects[openpublish][download][type] = "git"
+
+
+; DKAN
+;projects[dkan][type] = "profile"
+;projects[dkan][download][type] = "git"
+;projects[dkan][download][branch] = "7.x-1.x"
