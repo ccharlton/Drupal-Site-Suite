@@ -27,11 +27,13 @@ projects[simple_aggregation][subdir] 	= contrib
 ; Session Performance
 projects[state][subdir] 			= contrib
 
-; Database Performance
+; Content / Data / Database Performance
 projects[autoslave][subdir] 		= contrib
 projects[memcache][subdir] 			= contrib
 projects[entitycache][subdir] 		= contrib
-projects[entitycache_flush][subdir] = contrib
+projects[entitycache_flush][subdir] 	= contrib
+projects[display_cache][subdir] 		= contrib
+projects[views_content_cache][subdir] 	= contrib
 
 ; Cache
 ;projects[cache_graceful][subdir] 		= contrib

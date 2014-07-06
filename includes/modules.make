@@ -88,6 +88,7 @@ projects[options_element][subdir] 			= contrib
 ;projects[field_formatter_settings][subdir] = contrib
 projects[field_group][subdir] 				= contrib
 projects[filefield_sources][subdir] 		= contrib
+projects[filefield_paths][subdir] 		= contrib
 projects[fences][subdir] 					= contrib
 projects[hierarchical_select][subdir] 		= contrib
 projects[inline_entity_form][subdir] 		= contrib
@@ -97,6 +98,7 @@ projects[node_display_fields][subdir] 		= contrib
 projects[every_field][subdir] 		= contrib
 ;projects[creative_commons][subdir] 			= contrib
 ;projects[download][subdir] 			= contrib
+projects[multiupload_filefield_widget][subdir] 	= contrib
 
 ; Date & Time
 projects[date][subdir] 				= contrib
@@ -143,7 +145,6 @@ projects[view_mode_modal][subdir] 		= contrib
 projects[views_load_more][subdir] 		= contrib
 projects[views_litepager][subdir] 		= contrib
 projects[views_url_alias][subdir] 		= contrib
-projects[views_content_cache][subdir] 		= contrib
 
 ; Content
 projects[context][subdir] 			= contrib
@@ -184,11 +185,12 @@ projects[autofloat][subdir] 		= contrib
 ;projects[remarkup][subdir] 		= contrib
 projects[advanced_text_formatter][subdir] 	= contrib
 projects[defaulttextfornode][subdir] 		= contrib
+projects[insert][subdir] 			= contrib
 
 ; Content Editing: WYSIWYG
 projects[wysiwyg][subdir] 			= contrib
 projects[ckeditor][subdir] 			= contrib
-projects[ckeditor_link][subdir] 	= contrib
+projects[ckeditor_link][subdir] 		= contrib
 projects[imce][subdir] 				= contrib
 projects[imce_wysiwyg][subdir] 		= contrib
 ;projects[edit][subdir] 			= contrib
@@ -204,6 +206,8 @@ projects[node_revision_restrict][subdir] 	= contrib
 ;projects[node_reference_filter][subdir] 	= contrib
 ;projects[restricted_text][subdir] 			= contrib
 ;projects[content_mask][subdir] 			= contrib
+projects[sps][subdir] 					= contrib
+projects[image_resize_filter][subdir] 	= contrib
 
 ; Content Migration/Importing
 ;projects[migrate][subdir] 			= contrib
@@ -223,21 +227,29 @@ projects[image_style_quality][subdir] 	= contrib
 projects[imagecache_token][subdir] 		= contrib
 projects[galleryformatter][subdir] 		= contrib
 projects[picture][subdir] 				= contrib
+projects[ais][subdir] 					= contrib
+;projects[galleria][subdir] 			= contrib
+projects[multiupload_imagefield_widget][subdir] = contrib
+projects[adaptive_image][subdir] = contrib
+projects[cs_adaptive_image][subdir] 		= contrib
+projects[resp_img][subdir] 				= contrib
 
 ; Video & Media
 ;projects[video_embed_field][subdir] 		= contrib
 ;projects[vimeo_link_formatter][subdir] 	= contrib
 ;projects[ffmpeg_wrapper][subdir] 		= contrib
-;projects[php-ffmpeg][subdir] 		= contrib
+;projects[php-ffmpeg][subdir] 			= contrib
 projects[media][subdir] 				= contrib
 ;projects[getid3][subdir] 				= contrib
 projects[emfield][subdir] 				= contrib
+projects[media_responsive][subdir] 		= contrib
 
 ; Files & Uploading
 ;projects[plupload][subdir] 		= contrib
 projects[mimedetect][subdir] 		= contrib
 projects[file_entity][subdir] 		= contrib
 projects[transliteration][subdir] 	= contrib
+projects[file_aliases][subdir] 	= contrib
 
 ; Stream wrappers & Filter types
 projects[system_stream_wrapper][subdir] 	= contrib
@@ -327,6 +339,9 @@ projects[forward][subdir]	 		= contrib
 ;projects[mobile_detect][subdir]	 		= contrib
 ;projects[mobile_detect_api][subdir]	 		= contrib
 ;projects[context_mobile_detect][subdir]	 		= contrib
+projects[browscap][subdir]	 			= contrib
+projects[browscap_block][subdir]	 		= contrib
+projects[browscap_ctools][subdir]	 	= contrib
 
 ; Security & Auditing
 projects[security_review][subdir] 		= contrib
@@ -366,6 +381,7 @@ projects[menu_block][subdir] 			= contrib
 projects[menu_breadcrumb][subdir] 		= contrib
 projects[simplified_menu_admin][subdir] 	= contrib
 projects[special_menu_items][subdir] 		= contrib
+projects[menu_attributes][subdir] 		= contrib
 
 ; Icons
 ;projects[icon][subdir] 					= contrib
@@ -431,3 +447,5 @@ projects[jquery_update][subdir] 			= contrib
 ;projects[json2][subdir] 				= contrib
 ;projects[shorten][subdir] 				= contrib
 ;projects[shurly][subdir] 				= contrib
+projects[flexslider][subdir] 			= contrib
+;projects[nicecomments][subdir] 			= contrib
