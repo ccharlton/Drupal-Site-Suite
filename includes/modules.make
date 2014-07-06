@@ -18,6 +18,7 @@ projects[configuration][subdir] 		= contrib
 projects[xautoload][subdir] 		= contrib
 ;projects[composer_manager][subdir] 		= contrib
 ;projects[drupal_symfony_inject][subdir] 		= contrib
+projects[emogrifier][subdir] 		= contrib
 
 ; Help & Tutorials
 projects[advanced_help][subdir] 	= contrib
@@ -34,6 +35,7 @@ projects[breakpoints][subdir] 		= contrib
 projects[color_save_custom][subdir] = contrib
 ;projects[layout][subdir] 			= contrib
 projects[ember_support] 			= contrib 
+projects[echo] 					= contrib
 
 ; Theme development
 ;projects[scssphp][subdir] 			= contrib
@@ -126,6 +128,9 @@ projects[mail_edit][subdir] 		= contrib
 ;projects[advanced_mail_reroute][subdir] 		= contrib
 ;projects[mail_logger][subdir] 		= contrib
 ;projects[reroute_email][subdir] 		= contrib
+projects[htmlmail][subdir] 			= contrib
+projects[mailmime][subdir] 			= contrib
+projects[mailsystem][subdir] 			= contrib
 
 ; Views
 projects[views][subdir] 				= contrib
@@ -159,6 +164,7 @@ projects[auto_nodetitle][subdir] 	= contrib
 ;projects[pages][subdir] 			= contrib
 ;projects[textualizer][subdir] 		= contrib
 projects[expanding_formatter][subdir] 	= contrib
+projects[context_field][subdir] 		= contrib
 
 ; Semantic Content
 projects[microdata][subdir] 		= contrib
@@ -208,6 +214,8 @@ projects[node_revision_restrict][subdir] 	= contrib
 ;projects[content_mask][subdir] 			= contrib
 projects[sps][subdir] 					= contrib
 projects[image_resize_filter][subdir] 	= contrib
+projects[nra][subdir] 					= contrib
+projects[htmlpurifier][subdir] 			= contrib
 
 ; Content Migration/Importing
 ;projects[migrate][subdir] 			= contrib
@@ -267,7 +275,9 @@ projects[filter_protocols][subdir] 			= contrib
 ;includes[acquia_lift] = https://gist.githubusercontent.com/katbailey/9328682/raw/d6a8b6ce010e66085134da204561ceffb3a92553/acquia_lift.make
 
 ; Panels
-;projects[panels][subdir] 				= contrib
+projects[panels][subdir] 				= contrib
+projects[panelizer][subdir] 			= contrib
+projects[fieldable_panels_panes][subdir] 	= contrib
 
 ; Feeds & RSS
 projects[feeds][subdir] 				= contrib
@@ -394,6 +404,10 @@ projects[menu_attributes][subdir] 		= contrib
 ;projects[elysia_cron][subdir] 			= contrib
 ;projects[ultimate_cron][subdir] 		= contrib
 
+; Groups
+;projects[og][subdir] 					= contrib
+;projects[og_fpp][subdir] 				= contrib
+
 ; Multi-site
 projects[robotstxt][subdir] 			= contrib
 
@@ -449,3 +463,4 @@ projects[jquery_update][subdir] 			= contrib
 ;projects[shurly][subdir] 				= contrib
 projects[flexslider][subdir] 			= contrib
 ;projects[nicecomments][subdir] 			= contrib
+projects[iib][subdir] 					= contrib
