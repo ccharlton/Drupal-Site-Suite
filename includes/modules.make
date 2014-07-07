@@ -467,3 +467,4 @@ projects[jquery_update][subdir] 			= contrib
 projects[flexslider][subdir] 			= contrib
 ;projects[nicecomments][subdir] 			= contrib
 projects[iib][subdir] 					= contrib
+;projects[barcode][subdir] 				= contrib
