@@ -468,3 +468,4 @@ projects[flexslider][subdir] 			= contrib
 ;projects[nicecomments][subdir] 			= contrib
 projects[iib][subdir] 					= contrib
 ;projects[barcode][subdir] 				= contrib
+projects[multiform][subdir] 			= contrib
