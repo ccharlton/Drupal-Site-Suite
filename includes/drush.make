@@ -29,6 +29,8 @@ projects[drush_debug_tools][subdir]   	= drush
 projects[genova][subdir]    = development
 projects[genova_entity][subdir]    = development
 projects[mforms][subdir]    = development
+projects[drush_clone][subdir]    = drush
+
 
 ; Drush: Deployment, Building & Automation
 ;projects[environment][subdir]        = drush
