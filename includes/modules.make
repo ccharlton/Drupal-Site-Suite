@@ -420,7 +420,10 @@ projects[restws][subdir] 				= contrib
 ; Backups
 projects[backup_migrate][subdir] 		= contrib
 projects[backup_migrate_files][subdir] 	= contrib
-;projects[backup_migrate_prune][subdir] = contrib
+;projects[backup_migrate_prune][subdir] 	= contrib
+
+; Maintenance
+projects[db_maintenance][subdir] 		= contrib
 
 ; Misc.
 ;projects[rate][subdir] 				= contrib
